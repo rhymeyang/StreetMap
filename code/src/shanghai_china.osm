@@ -1,3 +1,1080 @@
-place holder
-origin file from 
-https://s3.amazonaws.com/metro-extracts.mapzen.com/shanghai_china.osm.bz2
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8.5" timestamp="2017-12-04T15:04:02Z">
+	<bounds minlat="29.477" minlon="118.887" maxlat="32.472" maxlon="123.787"/>
+	<node id="25926073" lat="30.2795316" lon="120.1653172" version="7" timestamp="2017-04-25T15:21:06Z" changeset="48129029" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="25926074" lat="30.2801771" lon="120.1664368" version="5" timestamp="2009-01-07T17:48:06Z" changeset="752138" uid="5553" user="dkt"/>
+	<node id="25926076" lat="30.2805123" lon="120.1671229" version="4" timestamp="2008-10-11T12:16:05Z" changeset="255512" uid="5553" user="dkt"/>
+	<node id="25926077" lat="30.2808125" lon="120.1679707" version="4" timestamp="2008-10-11T12:16:05Z" changeset="255512" uid="5553" user="dkt"/>
+	<node id="25926079" lat="30.280983" lon="120.1690646" version="4" timestamp="2008-10-11T12:16:05Z" changeset="255512" uid="5553" user="dkt"/>
+	<node id="25926080" lat="30.2810555" lon="120.1701763" version="4" timestamp="2008-10-11T12:16:05Z" changeset="255512" uid="5553" user="dkt"/>
+	<node id="25926081" lat="30.2809536" lon="120.1707709" version="4" timestamp="2008-10-11T12:16:05Z" changeset="255512" uid="5553" user="dkt"/>
+	<node id="25926083" lat="30.2808065" lon="120.1719247" version="4" timestamp="2008-10-11T12:16:05Z" changeset="255512" uid="5553" user="dkt"/>
+	<node id="25926085" lat="30.2808212" lon="120.1724478" version="4" timestamp="2008-10-11T12:16:05Z" changeset="255512" uid="5553" user="dkt"/>
+	<node id="25926086" lat="30.2809938" lon="120.1730955" version="2" timestamp="2008-06-28T08:35:11Z" changeset="323933" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="25926087" lat="30.2811889" lon="120.1736981" version="4" timestamp="2008-10-11T12:16:06Z" changeset="255512" uid="5553" user="dkt"/>
+	<node id="25926100" lat="30.282351" lon="120.178018" version="3" timestamp="2017-08-25T07:09:14Z" changeset="51425578" uid="5888135" user="iberutan">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="25954988" lat="30.2786256" lon="120.1613028" version="7" timestamp="2017-08-17T04:59:48Z" changeset="51192782" uid="6161085" user="方恨少">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="25954989" lat="30.2786617" lon="120.1619896" version="5" timestamp="2016-07-07T16:53:15Z" changeset="40547131" uid="2607646" user="AUV"/>
+	<node id="25954990" lat="30.2786808" lon="120.1635703" version="5" timestamp="2008-10-11T12:16:04Z" changeset="255512" uid="5553" user="dkt"/>
+	<node id="25954991" lat="30.2791192" lon="120.164703" version="4" timestamp="2008-10-11T12:16:04Z" changeset="255512" uid="5553" user="dkt"/>
+	<node id="25954992" lat="30.2739986" lon="120.1362416" version="4" timestamp="2009-01-08T11:57:43Z" changeset="756177" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="25954993" lat="30.2681689" lon="120.137141" version="4" timestamp="2009-01-08T11:57:44Z" changeset="756177" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="25982049" lat="30.2696505" lon="120.1425719" version="2" timestamp="2008-06-29T16:26:28Z" changeset="336028" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="25982050" lat="30.2653195" lon="120.1289173" version="4" timestamp="2009-01-23T06:22:34Z" changeset="826522" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="25982051" lat="30.2617396" lon="120.1262584" version="3" timestamp="2009-01-23T08:16:55Z" changeset="827180" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="25982052" lat="30.2600697" lon="120.1264169" version="2" timestamp="2008-10-13T06:38:08Z" changeset="296010" uid="5553" user="dkt"/>
+	<node id="25982053" lat="30.2591843" lon="120.1261273" version="2" timestamp="2008-10-13T06:38:08Z" changeset="296010" uid="5553" user="dkt"/>
+	<node id="25982062" lat="30.2571378" lon="120.1262" version="2" timestamp="2008-10-13T06:38:08Z" changeset="296010" uid="5553" user="dkt"/>
+	<node id="25982063" lat="30.2557974" lon="120.1256485" version="3" timestamp="2009-01-23T06:22:33Z" changeset="826522" uid="5553" user="dkt"/>
+	<node id="25982066" lat="30.2735854" lon="120.1317153" version="4" timestamp="2016-05-15T12:55:45Z" changeset="39330473" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="25982067" lat="30.269052" lon="120.1320935" version="2" timestamp="2017-08-12T07:14:56Z" changeset="51051004" uid="6161085" user="方恨少"/>
+	<node id="26041224" lat="30.2909038" lon="120.1723577" version="3" timestamp="2016-07-27T08:48:05Z" changeset="41057062" uid="1951271" user="Qiboua">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26041225" lat="30.2879662" lon="120.17191" version="2" timestamp="2016-07-27T09:23:09Z" changeset="41057809" uid="1951271" user="Qiboua"/>
+	<node id="26041226" lat="30.2875694" lon="120.1718533" version="2" timestamp="2016-07-27T09:23:09Z" changeset="41057809" uid="1951271" user="Qiboua"/>
+	<node id="26041227" lat="30.2871784" lon="120.1717983" version="2" timestamp="2016-07-27T09:23:09Z" changeset="41057809" uid="1951271" user="Qiboua"/>
+	<node id="26041228" lat="30.2866059" lon="120.1718298" version="2" timestamp="2016-07-27T09:23:09Z" changeset="41057809" uid="1951271" user="Qiboua"/>
+	<node id="26041229" lat="30.2846957" lon="120.1721714" version="4" timestamp="2016-01-18T11:44:06Z" changeset="36654479" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26041230" lat="30.2771918" lon="120.1743715" version="3" timestamp="2008-06-29T16:24:51Z" changeset="336028" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26041231" lat="30.2743599" lon="120.175229" version="1" timestamp="2007-02-20T19:04:24Z" changeset="220723" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26041232" lat="30.2703041" lon="120.1757836" version="1" timestamp="2007-02-20T19:04:25Z" changeset="220723" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26041233" lat="30.2669069" lon="120.176165" version="3" timestamp="2017-05-07T15:13:54Z" changeset="48477602" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26041234" lat="30.2602681" lon="120.1761087" version="3" timestamp="2016-10-09T13:37:15Z" changeset="42754253" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26041235" lat="30.2569404" lon="120.1760382" version="3" timestamp="2015-11-29T08:41:27Z" changeset="35642005" uid="2607646" user="AUV"/>
+	<node id="26041236" lat="30.2525852" lon="120.1752419" version="5" timestamp="2017-08-14T08:52:29Z" changeset="51103395" uid="6161085" user="方恨少">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26041240" lat="30.2480112" lon="120.1742327" version="3" timestamp="2015-11-29T08:41:27Z" changeset="35642005" uid="2607646" user="AUV"/>
+	<node id="26041447" lat="30.2765863" lon="120.1680803" version="2" timestamp="2015-02-26T10:55:37Z" changeset="29110764" uid="2607646" user="AUV"/>
+	<node id="26041454" lat="30.2757043" lon="120.1573881" version="5" timestamp="2008-11-21T12:32:07Z" changeset="776973" uid="5553" user="dkt"/>
+	<node id="26041462" lat="30.2753716" lon="120.1524044" version="2" timestamp="2008-06-29T16:24:16Z" changeset="336028" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26041463" lat="30.2743638" lon="120.1408932" version="2" timestamp="2008-06-28T08:31:55Z" changeset="323933" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26041464" lat="30.2740749" lon="120.1255024" version="4" timestamp="2016-05-15T12:55:45Z" changeset="39330473" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26041465" lat="30.274438" lon="120.1198127" version="3" timestamp="2016-05-15T12:55:45Z" changeset="39330473" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26041466" lat="30.2778417" lon="120.1812017" version="4" timestamp="2016-07-10T17:18:38Z" changeset="40634495" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26056786" lat="30.2729482" lon="120.182687" version="3" timestamp="2016-11-27T10:40:44Z" changeset="43980508" uid="2607646" user="AUV"/>
+	<node id="26056789" lat="30.2719244" lon="120.1829467" version="2" timestamp="2016-11-27T10:40:44Z" changeset="43980508" uid="2607646" user="AUV"/>
+	<node id="26056791" lat="30.2694586" lon="120.1833918" version="1" timestamp="2007-02-21T15:36:08Z" changeset="221473" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26056800" lat="30.2680725" lon="120.1834874" version="1" timestamp="2007-02-21T15:36:09Z" changeset="221473" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26056817" lat="30.2600688" lon="120.1829295" version="2" timestamp="2015-11-29T08:41:27Z" changeset="35642005" uid="2607646" user="AUV"/>
+	<node id="26056834" lat="30.2551086" lon="120.1825916" version="2" timestamp="2015-11-29T08:41:27Z" changeset="35642005" uid="2607646" user="AUV"/>
+	<node id="26056841" lat="30.2536301" lon="120.182176" version="1" timestamp="2007-05-09T15:48:30Z" changeset="42835" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26056842" lat="30.2521307" lon="120.1809494" version="6" timestamp="2017-06-18T22:57:34Z" changeset="49645636" uid="527721" user="ninjamask">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26056843" lat="30.2491662" lon="120.1795444" version="3" timestamp="2008-11-24T08:12:01Z" changeset="788120" uid="5553" user="dkt"/>
+	<node id="26056844" lat="30.2474364" lon="120.1777003" version="3" timestamp="2015-06-24T06:23:39Z" changeset="32175585" uid="2607646" user="AUV"/>
+	<node id="26056845" lat="30.2721326" lon="120.166375" version="3" timestamp="2017-09-17T09:42:36Z" changeset="52113318" uid="2607646" user="AUV"/>
+	<node id="26056846" lat="30.266948" lon="120.1665783" version="4" timestamp="2015-03-07T17:10:50Z" changeset="29312597" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26056849" lat="30.2566328" lon="120.167202" version="2" timestamp="2017-04-25T15:21:06Z" changeset="48129029" uid="2607646" user="AUV"/>
+	<node id="26197689" lat="30.2838074" lon="120.1627746" version="1" timestamp="2007-05-03T14:37:28Z" changeset="40035" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197692" lat="30.2834172" lon="120.160773" version="5" timestamp="2017-08-17T04:59:48Z" changeset="51192782" uid="6161085" user="方恨少">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26197695" lat="30.2810397" lon="120.1500448" version="4" timestamp="2015-03-04T06:00:19Z" changeset="29236927" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26197696" lat="30.2803342" lon="120.1464879" version="4" timestamp="2016-05-15T12:55:43Z" changeset="39330473" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26197698" lat="30.2798359" lon="120.1373258" version="3" timestamp="2016-05-15T12:55:43Z" changeset="39330473" uid="2607646" user="AUV"/>
+	<node id="26197702" lat="30.2791319" lon="120.1251243" version="2" timestamp="2008-06-28T08:30:47Z" changeset="323933" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197704" lat="30.2788439" lon="120.1194981" version="3" timestamp="2008-06-28T08:30:40Z" changeset="323933" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197709" lat="30.2844519" lon="120.1145496" version="4" timestamp="2009-01-19T15:23:01Z" changeset="811492" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197715" lat="30.2847662" lon="120.1189213" version="2" timestamp="2008-06-28T08:31:04Z" changeset="323933" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197716" lat="30.2849864" lon="120.1246402" version="3" timestamp="2008-12-16T09:52:20Z" changeset="415940" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197718" lat="30.2857354" lon="120.1382958" version="2" timestamp="2008-12-23T13:01:22Z" changeset="563935" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197719" lat="30.2860275" lon="120.1433651" version="2" timestamp="2009-01-05T01:56:47Z" changeset="737442" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197720" lat="30.2873395" lon="120.1469865" version="3" timestamp="2017-08-25T11:56:26Z" changeset="51432336" uid="5888135" user="iberutan">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26197721" lat="30.2909191" lon="120.1548269" version="4" timestamp="2017-08-14T14:38:49Z" changeset="51113214" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26197723" lat="30.2885747" lon="120.1613184" version="2" timestamp="2015-10-20T12:28:28Z" changeset="34754184" uid="2607646" user="AUV"/>
+	<node id="26197724" lat="30.2863048" lon="120.162931" version="1" timestamp="2007-02-26T22:33:23Z" changeset="224879" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197725" lat="30.2898297" lon="120.1141167" version="3" timestamp="2009-01-19T15:23:03Z" changeset="811492" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197726" lat="30.2900834" lon="120.1191438" version="1" timestamp="2007-03-09T13:08:06Z" changeset="232590" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197727" lat="30.290378" lon="120.1242192" version="3" timestamp="2008-12-16T09:52:19Z" changeset="415940" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197728" lat="30.2907767" lon="120.1305097" version="4" timestamp="2016-05-15T12:55:44Z" changeset="39330473" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26197729" lat="30.2911324" lon="120.1374368" version="3" timestamp="2017-05-20T13:22:52Z" changeset="48842800" uid="2607646" user="AUV"/>
+	<node id="26197731" lat="30.2928489" lon="120.1441014" version="3" timestamp="2017-07-07T18:22:34Z" changeset="50115370" uid="5380652" user="SuperUser1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26197733" lat="30.2743901" lon="120.1153328" version="5" timestamp="2012-03-09T11:20:13Z" changeset="10918422" uid="621236" user="vivimice">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26197734" lat="30.2715572" lon="120.1480128" version="2" timestamp="2008-10-13T06:38:07Z" changeset="296010" uid="5553" user="dkt"/>
+	<node id="26197735" lat="30.2730679" lon="120.1503114" version="3" timestamp="2017-08-13T13:22:15Z" changeset="51081886" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26197736" lat="30.2729005" lon="120.153837" version="2" timestamp="2008-06-29T16:23:59Z" changeset="336028" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26197737" lat="30.2727023" lon="120.1575855" version="9" timestamp="2008-11-21T12:37:12Z" changeset="776973" uid="5553" user="dkt"/>
+	<node id="26197738" lat="30.2726569" lon="120.1582933" version="5" timestamp="2008-11-21T12:37:12Z" changeset="776973" uid="5553" user="dkt"/>
+	<node id="26197741" lat="30.2724917" lon="120.1621403" version="4" timestamp="2017-04-25T15:21:06Z" changeset="48129029" uid="2607646" user="AUV"/>
+	<node id="26197742" lat="30.2721408" lon="120.1719538" version="3" timestamp="2017-09-17T09:42:36Z" changeset="52113318" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26197745" lat="30.2725364" lon="120.175462" version="3" timestamp="2017-08-28T14:53:59Z" changeset="51512242" uid="2607646" user="AUV"/>
+	<node id="26197746" lat="30.2720901" lon="120.163619" version="3" timestamp="2015-11-02T13:09:44Z" changeset="35034084" uid="2607646" user="AUV"/>
+	<node id="26198710" lat="30.2879384" lon="120.1750212" version="2" timestamp="2017-08-25T07:09:14Z" changeset="51425578" uid="5888135" user="iberutan"/>
+	<node id="26198714" lat="30.3140252" lon="120.1506656" version="4" timestamp="2017-10-28T07:17:23Z" changeset="53310115" uid="5888135" user="iberutan">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26199627" lat="30.2604742" lon="120.1428118" version="2" timestamp="2009-01-11T15:26:28Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199628" lat="30.2613605" lon="120.1440526" version="2" timestamp="2009-01-11T15:26:31Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199629" lat="30.2613617" lon="120.1449338" version="2" timestamp="2009-01-11T15:26:31Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199630" lat="30.2618382" lon="120.1469699" version="2" timestamp="2009-01-11T15:26:30Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199631" lat="30.2613067" lon="120.1475526" version="2" timestamp="2009-01-11T15:26:29Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199632" lat="30.2626215" lon="120.1517423" version="4" timestamp="2017-03-06T07:59:03Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199633" lat="30.2604629" lon="120.152475" version="5" timestamp="2017-03-06T07:59:03Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199634" lat="30.2587483" lon="120.1537829" version="8" timestamp="2017-03-06T07:59:03Z" changeset="46615758" uid="5147743" user="Jason Roy">
+		<tag k="tourism" v="viewpoint"/>
+	</node>
+	<node id="26199635" lat="30.2585964" lon="120.1547559" version="4" timestamp="2017-03-06T07:59:03Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199636" lat="30.2545411" lon="120.1574853" version="4" timestamp="2017-03-06T07:59:03Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199637" lat="30.2530283" lon="120.1572057" version="6" timestamp="2017-03-06T07:59:03Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199638" lat="30.2517041" lon="120.1550656" version="3" timestamp="2017-03-06T07:59:03Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199639" lat="30.2512057" lon="120.1548117" version="4" timestamp="2017-03-06T07:59:03Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199640" lat="30.2505778" lon="120.1544638" version="3" timestamp="2017-03-06T07:59:03Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199642" lat="30.2489813" lon="120.1534228" version="3" timestamp="2017-03-06T07:59:04Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199643" lat="30.2486913" lon="120.1535131" version="4" timestamp="2017-03-06T07:59:04Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199644" lat="30.2485689" lon="120.1552331" version="5" timestamp="2017-03-06T07:59:04Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199645" lat="30.2482981" lon="120.1550598" version="5" timestamp="2017-03-06T07:59:04Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199646" lat="30.2476186" lon="120.154382" version="4" timestamp="2017-03-06T07:59:04Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199647" lat="30.2464188" lon="120.153148" version="3" timestamp="2017-03-06T07:59:04Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199648" lat="30.2450543" lon="120.1517012" version="3" timestamp="2017-03-06T07:59:04Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199649" lat="30.2441582" lon="120.1507283" version="3" timestamp="2017-03-06T07:59:04Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26199650" lat="30.2414037" lon="120.1495178" version="3" timestamp="2009-01-11T16:07:51Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199651" lat="30.2410227" lon="120.1497159" version="3" timestamp="2009-01-11T16:07:51Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199655" lat="30.2366369" lon="120.1497843" version="2" timestamp="2009-01-11T16:07:54Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199656" lat="30.2361418" lon="120.1499952" version="3" timestamp="2010-06-17T15:55:32Z" changeset="5009899" uid="5715" user="Hoylen Sue"/>
+	<node id="26199657" lat="30.2350244" lon="120.1501718" version="3" timestamp="2010-06-17T15:55:30Z" changeset="5009899" uid="5715" user="Hoylen Sue"/>
+	<node id="26199658" lat="30.2340702" lon="120.1496701" version="2" timestamp="2009-01-11T16:07:58Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199659" lat="30.2331391" lon="120.1493786" version="3" timestamp="2010-06-17T15:55:33Z" changeset="5009899" uid="5715" user="Hoylen Sue"/>
+	<node id="26199660" lat="30.2338259" lon="120.1489675" version="2" timestamp="2009-01-11T16:08:00Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199661" lat="30.2343896" lon="120.1484742" version="2" timestamp="2009-01-11T16:07:59Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199662" lat="30.2347619" lon="120.1479267" version="2" timestamp="2009-01-11T16:08:01Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199663" lat="30.2359334" lon="120.1462832" version="2" timestamp="2009-01-11T16:08:00Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199664" lat="30.2367645" lon="120.1458411" version="2" timestamp="2009-01-11T16:07:41Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199665" lat="30.2373952" lon="120.1451974" version="2" timestamp="2009-01-11T16:07:42Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199666" lat="30.2373088" lon="120.1448597" version="2" timestamp="2009-01-11T16:07:43Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199667" lat="30.2366258" lon="120.1446469" version="2" timestamp="2009-01-11T16:07:43Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199668" lat="30.235897" lon="120.1436353" version="2" timestamp="2009-01-11T16:07:44Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199669" lat="30.2349611" lon="120.1415364" version="1" timestamp="2007-02-27T00:40:13Z" changeset="224965" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199671" lat="30.2341385" lon="120.1408342" version="2" timestamp="2009-01-11T16:07:45Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199672" lat="30.2329001" lon="120.14175" version="2" timestamp="2009-01-11T16:07:46Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199674" lat="30.2322927" lon="120.14355" version="2" timestamp="2009-01-11T16:07:47Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199675" lat="30.2326298" lon="120.1419386" version="2" timestamp="2009-01-11T16:07:48Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199676" lat="30.2321439" lon="120.1413876" version="4" timestamp="2010-06-17T15:55:34Z" changeset="5009899" uid="5715" user="Hoylen Sue"/>
+	<node id="26199677" lat="30.2318737" lon="120.1406768" version="4" timestamp="2010-06-17T15:55:31Z" changeset="5009899" uid="5715" user="Hoylen Sue"/>
+	<node id="26199678" lat="30.2316646" lon="120.1396771" version="4" timestamp="2010-06-17T15:55:29Z" changeset="5009899" uid="5715" user="Hoylen Sue"/>
+	<node id="26199679" lat="30.2308362" lon="120.1392754" version="2" timestamp="2009-01-11T15:26:25Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199680" lat="30.2303879" lon="120.1383131" version="2" timestamp="2009-01-11T15:26:11Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199681" lat="30.2299234" lon="120.1371349" version="2" timestamp="2009-01-11T15:26:12Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199682" lat="30.2307372" lon="120.1362114" version="2" timestamp="2009-01-11T15:26:10Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199683" lat="30.2315556" lon="120.1357868" version="2" timestamp="2012-04-14T07:01:31Z" changeset="11295283" uid="49873" user="TooM"/>
+	<node id="26199684" lat="30.2321723" lon="120.136216" version="2" timestamp="2009-01-11T15:26:09Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199685" lat="30.2326706" lon="120.1365039" version="2" timestamp="2009-01-11T15:26:09Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199686" lat="30.2332798" lon="120.1368042" version="2" timestamp="2009-01-11T15:26:07Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199687" lat="30.233567" lon="120.1376199" version="2" timestamp="2009-01-11T15:26:08Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199688" lat="30.2339229" lon="120.1376607" version="2" timestamp="2009-01-11T15:26:05Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199689" lat="30.2342861" lon="120.137816" version="3" timestamp="2010-06-12T23:13:36Z" changeset="4974766" uid="49873" user="TooM"/>
+	<node id="26199690" lat="30.2347217" lon="120.1375116" version="3" timestamp="2010-06-12T23:13:25Z" changeset="4974766" uid="49873" user="TooM"/>
+	<node id="26199691" lat="30.2344274" lon="120.1368297" version="2" timestamp="2009-01-11T15:26:04Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199692" lat="30.2345179" lon="120.1354551" version="2" timestamp="2009-01-11T15:26:01Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199693" lat="30.2342776" lon="120.1347199" version="2" timestamp="2009-01-11T15:26:02Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199694" lat="30.2334713" lon="120.133708" version="3" timestamp="2010-06-12T23:13:36Z" changeset="4974766" uid="49873" user="TooM"/>
+	<node id="26199695" lat="30.2338148" lon="120.1329596" version="2" timestamp="2009-01-11T15:26:00Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199696" lat="30.2365497" lon="120.1311" version="2" timestamp="2009-01-11T15:25:58Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199697" lat="30.2366722" lon="120.1311913" version="2" timestamp="2009-01-11T15:25:57Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199698" lat="30.2372362" lon="120.1311668" version="2" timestamp="2009-01-11T15:25:56Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199699" lat="30.2381202" lon="120.1311377" version="2" timestamp="2009-01-11T15:25:56Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199700" lat="30.2384672" lon="120.131651" version="2" timestamp="2009-01-11T15:25:54Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199701" lat="30.239284" lon="120.1324204" version="2" timestamp="2009-01-11T15:25:54Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199702" lat="30.2397627" lon="120.1324707" version="2" timestamp="2009-01-11T15:25:53Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199703" lat="30.2414329" lon="120.1323288" version="2" timestamp="2009-01-11T15:25:52Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199704" lat="30.2423562" lon="120.1317317" version="2" timestamp="2009-01-11T15:25:51Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199705" lat="30.2431734" lon="120.1305649" version="2" timestamp="2009-01-11T15:25:51Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199706" lat="30.2428425" lon="120.1296446" version="4" timestamp="2009-01-11T15:25:50Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199707" lat="30.242483" lon="120.1286537" version="4" timestamp="2009-01-11T15:25:49Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199708" lat="30.2429059" lon="120.1284622" version="4" timestamp="2009-01-11T15:25:48Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199709" lat="30.245087" lon="120.1270014" version="3" timestamp="2012-04-12T15:33:58Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26199710" lat="30.2440847" lon="120.1281648" version="2" timestamp="2009-01-11T15:25:47Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199714" lat="30.2444713" lon="120.1280734" version="2" timestamp="2009-01-11T15:25:46Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199717" lat="30.2452619" lon="120.1278407" version="3" timestamp="2012-04-12T15:33:58Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26199718" lat="30.2453135" lon="120.127891" version="3" timestamp="2012-04-12T15:33:58Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26199719" lat="30.2466176" lon="120.127807" version="3" timestamp="2012-04-12T15:33:58Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26199721" lat="30.2473563" lon="120.1279057" version="2" timestamp="2009-01-11T15:25:41Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199723" lat="30.2481426" lon="120.1278855" version="2" timestamp="2009-01-11T15:25:42Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199724" lat="30.2489595" lon="120.127919" version="2" timestamp="2009-01-11T15:25:40Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199726" lat="30.2496319" lon="120.1289521" version="2" timestamp="2009-01-11T15:25:41Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199728" lat="30.249644" lon="120.1299347" version="2" timestamp="2009-01-11T15:25:38Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199729" lat="30.2502317" lon="120.1308368" version="2" timestamp="2009-01-11T15:25:38Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199731" lat="30.2507216" lon="120.129894" version="2" timestamp="2009-01-11T15:25:39Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199732" lat="30.2509203" lon="120.1299914" version="2" timestamp="2009-01-11T15:25:35Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199734" lat="30.2519702" lon="120.1297369" version="2" timestamp="2009-01-11T15:25:37Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199735" lat="30.253158" lon="120.1296581" version="2" timestamp="2009-01-11T15:25:36Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199737" lat="30.2531395" lon="120.129925" version="2" timestamp="2009-01-11T15:25:34Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199739" lat="30.253288" lon="120.129966" version="2" timestamp="2009-01-11T15:25:34Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199740" lat="30.2535797" lon="120.1315621" version="3" timestamp="2014-06-09T12:48:00Z" changeset="22829433" uid="49873" user="TooM"/>
+	<node id="26199741" lat="30.2538041" lon="120.1323097" version="3" timestamp="2014-06-09T12:48:00Z" changeset="22829433" uid="49873" user="TooM"/>
+	<node id="26199742" lat="30.2541068" lon="120.1337239" version="2" timestamp="2009-01-11T15:25:33Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199743" lat="30.2543012" lon="120.1338946" version="2" timestamp="2009-01-11T15:25:32Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199744" lat="30.255603" lon="120.1354843" version="2" timestamp="2009-01-11T15:26:18Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199745" lat="30.2566388" lon="120.1365544" version="2" timestamp="2009-01-11T15:26:19Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199746" lat="30.2570364" lon="120.1371312" version="2" timestamp="2009-01-11T15:26:16Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199747" lat="30.2571449" lon="120.1373434" version="2" timestamp="2009-01-11T15:26:17Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199748" lat="30.2573811" lon="120.138172" version="2" timestamp="2009-01-11T15:26:22Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199749" lat="30.25781" lon="120.139133" version="2" timestamp="2009-01-11T15:26:23Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199750" lat="30.2582438" lon="120.1399305" version="2" timestamp="2009-01-11T15:26:20Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199751" lat="30.2587029" lon="120.1403356" version="2" timestamp="2009-01-11T15:26:21Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199752" lat="30.2594078" lon="120.1410799" version="2" timestamp="2009-01-11T15:26:13Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26199753" lat="30.2599104" lon="120.1417029" version="2" timestamp="2009-01-11T15:26:14Z" changeset="771189" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202700" lat="30.2634214" lon="120.1211799" version="3" timestamp="2017-05-20T07:15:07Z" changeset="48837278" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26202701" lat="30.2550438" lon="120.1254886" version="5" timestamp="2015-04-09T14:17:29Z" changeset="30094817" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26202702" lat="30.254785" lon="120.1261906" version="4" timestamp="2010-03-02T06:52:11Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202703" lat="30.2545154" lon="120.1266778" version="1" timestamp="2007-02-27T11:54:35Z" changeset="225484" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202704" lat="30.2543674" lon="120.127122" version="1" timestamp="2007-02-27T11:54:37Z" changeset="225484" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202705" lat="30.2543994" lon="120.1275104" version="2" timestamp="2010-03-02T06:52:11Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202706" lat="30.2543418" lon="120.128274" version="2" timestamp="2010-03-02T06:52:11Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202707" lat="30.2542587" lon="120.1286085" version="2" timestamp="2010-03-02T06:52:11Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202708" lat="30.25417" lon="120.1288987" version="1" timestamp="2007-02-27T11:54:43Z" changeset="225484" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202709" lat="30.2541746" lon="120.1295651" version="2" timestamp="2010-03-02T06:52:11Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202710" lat="30.2539346" lon="120.1305238" version="3" timestamp="2010-03-02T06:52:11Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202711" lat="30.2542296" lon="120.1321914" version="2" timestamp="2010-03-02T06:52:11Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202712" lat="30.2545296" lon="120.1334344" version="4" timestamp="2014-06-09T12:48:00Z" changeset="22829433" uid="49873" user="TooM"/>
+	<node id="26202713" lat="30.2545717" lon="120.1335454" version="3" timestamp="2010-03-02T06:52:11Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202714" lat="30.2550815" lon="120.1342539" version="3" timestamp="2010-03-02T06:52:11Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202715" lat="30.2570818" lon="120.1363841" version="1" timestamp="2007-02-27T11:54:57Z" changeset="225484" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202716" lat="30.2574438" lon="120.137914" version="1" timestamp="2007-02-27T11:55:01Z" changeset="225484" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202717" lat="30.2580689" lon="120.1393453" version="1" timestamp="2007-02-27T11:55:02Z" changeset="225484" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202718" lat="30.258365" lon="120.1398553" version="1" timestamp="2007-02-27T11:55:04Z" changeset="225484" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202719" lat="30.2592699" lon="120.1407107" version="1" timestamp="2007-02-27T11:55:06Z" changeset="225484" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202720" lat="30.2601334" lon="120.1417462" version="2" timestamp="2010-03-02T06:52:12Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202721" lat="30.2605634" lon="120.1426929" version="2" timestamp="2010-03-02T06:52:12Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202722" lat="30.2614063" lon="120.1439215" version="2" timestamp="2010-03-02T06:52:12Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202723" lat="30.2614814" lon="120.1441305" version="2" timestamp="2010-03-02T06:52:12Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202724" lat="30.2614373" lon="120.1448295" version="2" timestamp="2010-03-02T06:52:12Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202725" lat="30.2615816" lon="120.1452002" version="2" timestamp="2010-03-02T06:52:12Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202726" lat="30.2617273" lon="120.1454961" version="2" timestamp="2010-03-02T06:52:12Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202727" lat="30.2619183" lon="120.1469076" version="2" timestamp="2010-03-02T06:52:12Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202729" lat="30.261843" lon="120.1471673" version="2" timestamp="2010-03-02T06:52:12Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202730" lat="30.2615948" lon="120.147607" version="6" timestamp="2010-03-02T06:52:12Z" changeset="4014583" uid="7213" user="alimamo"/>
+	<node id="26202731" lat="30.2616717" lon="120.1482619" version="1" timestamp="2007-02-27T11:55:24Z" changeset="225484" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202732" lat="30.2621247" lon="120.1493009" version="2" timestamp="2011-04-21T16:36:52Z" changeset="7927022" uid="49873" user="TooM"/>
+	<node id="26202733" lat="30.2635013" lon="120.1531455" version="3" timestamp="2017-03-06T07:59:04Z" changeset="46615758" uid="5147743" user="Jason Roy">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26202734" lat="30.2605145" lon="120.1538982" version="5" timestamp="2016-02-21T11:00:45Z" changeset="37344398" uid="2607646" user="AUV"/>
+	<node id="26202735" lat="30.260585" lon="120.1570125" version="3" timestamp="2008-12-16T09:52:13Z" changeset="415940" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202736" lat="30.2606306" lon="120.16103" version="3" timestamp="2017-11-26T07:47:21Z" changeset="54088524" uid="2607646" user="AUV"/>
+	<node id="26202737" lat="30.2604377" lon="120.1629628" version="2" timestamp="2017-11-26T07:47:21Z" changeset="54088524" uid="2607646" user="AUV"/>
+	<node id="26202739" lat="30.2602704" lon="120.1705307" version="5" timestamp="2017-11-26T07:47:21Z" changeset="54088524" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26202740" lat="30.2602324" lon="120.1746148" version="2" timestamp="2015-11-29T08:41:26Z" changeset="35642005" uid="2607646" user="AUV"/>
+	<node id="26202741" lat="30.2943575" lon="120.130143" version="2" timestamp="2008-08-31T17:51:01Z" changeset="474693" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202742" lat="30.2990135" lon="120.1288571" version="3" timestamp="2007-11-03T13:28:00Z" changeset="392888" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202743" lat="30.3016342" lon="120.1308321" version="3" timestamp="2009-01-15T19:30:33Z" changeset="791641" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202744" lat="30.3025246" lon="120.1320988" version="1" timestamp="2007-05-14T06:16:54Z" changeset="49115" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202745" lat="30.305694" lon="120.1368823" version="3" timestamp="2016-06-11T12:51:33Z" changeset="39951958" uid="2607646" user="AUV"/>
+	<node id="26202746" lat="30.3094405" lon="120.1431231" version="3" timestamp="2016-07-27T06:01:56Z" changeset="41053764" uid="1951271" user="Qiboua">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26202747" lat="30.3121848" lon="120.1476103" version="1" timestamp="2007-02-27T11:56:03Z" changeset="225484" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202757" lat="30.2562999" lon="120.1582735" version="4" timestamp="2016-01-06T11:59:15Z" changeset="36401374" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26202758" lat="30.256463" lon="120.1625096" version="4" timestamp="2017-09-10T14:04:49Z" changeset="51909013" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26202760" lat="30.2565969" lon="120.168007" version="1" timestamp="2007-04-10T16:07:31Z" changeset="11635" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202761" lat="30.2565513" lon="120.1686799" version="1" timestamp="2007-04-10T16:07:30Z" changeset="11635" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202762" lat="30.2562944" lon="120.1695983" version="1" timestamp="2007-02-27T12:15:44Z" changeset="225484" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26202763" lat="30.2561839" lon="120.171352" version="1" timestamp="2007-04-10T16:07:28Z" changeset="11635" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26263991" lat="30.269053" lon="120.1322823" version="2" timestamp="2017-08-12T07:14:56Z" changeset="51051004" uid="6161085" user="方恨少"/>
+	<node id="26263992" lat="30.2685834" lon="120.1322186" version="2" timestamp="2016-05-15T12:55:45Z" changeset="39330473" uid="2607646" user="AUV"/>
+	<node id="26263993" lat="30.2736037" lon="120.1319295" version="4" timestamp="2017-08-12T07:14:56Z" changeset="51051004" uid="6161085" user="方恨少">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26272405" lat="30.274229" lon="120.1122366" version="4" timestamp="2012-03-09T11:20:11Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26272406" lat="30.2738914" lon="120.1101225" version="4" timestamp="2012-03-09T11:20:11Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26272407" lat="30.2728943" lon="120.1079094" version="4" timestamp="2012-03-09T11:20:11Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26286676" lat="30.2684599" lon="120.1431193" version="2" timestamp="2008-07-21T05:20:11Z" changeset="560261" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26286677" lat="30.2671279" lon="120.1444926" version="1" timestamp="2007-08-22T16:54:11Z" changeset="242883" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26286678" lat="30.2660378" lon="120.1459244" version="2" timestamp="2009-04-27T09:06:11Z" changeset="985641" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26286679" lat="30.2644766" lon="120.1473853" version="2" timestamp="2008-06-29T16:26:23Z" changeset="336028" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26286680" lat="30.2633344" lon="120.1484444" version="1" timestamp="2007-08-11T13:17:15Z" changeset="204514" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26286681" lat="30.2627104" lon="120.1494717" version="1" timestamp="2007-08-11T13:16:57Z" changeset="204514" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26286682" lat="30.2622768" lon="120.149706" version="5" timestamp="2011-04-21T16:37:00Z" changeset="7927022" uid="49873" user="TooM">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26287266" lat="30.2540971" lon="120.1260457" version="1" timestamp="2007-04-18T14:25:34Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287273" lat="30.2534768" lon="120.1260384" version="1" timestamp="2007-04-18T14:25:27Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287279" lat="30.2526242" lon="120.1260597" version="1" timestamp="2007-04-18T14:25:29Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287281" lat="30.2509192" lon="120.1261373" version="1" timestamp="2007-04-18T14:25:18Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287282" lat="30.250163" lon="120.1262479" version="1" timestamp="2007-04-18T14:25:19Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287284" lat="30.2472206" lon="120.1266199" version="2" timestamp="2012-04-12T15:33:59Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26287287" lat="30.2459762" lon="120.126992" version="1" timestamp="2007-04-18T14:25:26Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287288" lat="30.2452425" lon="120.1272138" version="2" timestamp="2012-04-12T15:33:59Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26287289" lat="30.2436723" lon="120.1277395" version="2" timestamp="2012-04-12T15:33:59Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26287290" lat="30.2428476" lon="120.1280108" version="4" timestamp="2012-04-12T15:34:00Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26287291" lat="30.2425683" lon="120.1279354" version="1" timestamp="2007-04-18T14:25:04Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287292" lat="30.2421994" lon="120.1277419" version="1" timestamp="2007-04-18T14:25:08Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287293" lat="30.2400938" lon="120.1253028" version="2" timestamp="2009-01-11T17:51:11Z" changeset="772857" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287294" lat="30.2396883" lon="120.1250723" version="1" timestamp="2007-04-18T14:25:15Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287295" lat="30.2392316" lon="120.1249744" version="1" timestamp="2007-04-18T14:25:16Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287296" lat="30.2387585" lon="120.1250547" version="1" timestamp="2007-04-18T14:24:55Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287297" lat="30.2383192" lon="120.1252572" version="1" timestamp="2007-04-18T14:24:53Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287298" lat="30.2377155" lon="120.125678" version="1" timestamp="2007-04-18T14:24:48Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287299" lat="30.2371691" lon="120.1262968" version="1" timestamp="2007-04-18T14:24:47Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287300" lat="30.2345753" lon="120.1301014" version="1" timestamp="2007-03-10T20:47:05Z" changeset="233383" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287301" lat="30.2341691" lon="120.1305953" version="1" timestamp="2007-04-18T14:24:45Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287307" lat="30.2335923" lon="120.1310287" version="1" timestamp="2007-04-18T14:24:44Z" changeset="18212" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287316" lat="30.228656" lon="120.1346057" version="2" timestamp="2012-04-07T14:49:35Z" changeset="11214868" uid="49873" user="TooM"/>
+	<node id="26287318" lat="30.2315837" lon="120.1409932" version="1" timestamp="2007-03-02T18:39:26Z" changeset="227323" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287319" lat="30.231653" lon="120.1422585" version="1" timestamp="2007-03-02T18:39:27Z" changeset="227323" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287320" lat="30.2318795" lon="120.1437469" version="2" timestamp="2013-07-12T22:59:08Z" changeset="16931995" uid="27454" user="Popolon"/>
+	<node id="26287321" lat="30.2321619" lon="120.146247" version="2" timestamp="2013-07-12T22:59:08Z" changeset="16931995" uid="27454" user="Popolon"/>
+	<node id="26287322" lat="30.2318866" lon="120.1475625" version="2" timestamp="2013-07-12T22:59:08Z" changeset="16931995" uid="27454" user="Popolon"/>
+	<node id="26287324" lat="30.2344955" lon="120.1505608" version="1" timestamp="2007-03-02T18:39:33Z" changeset="227323" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<way id="4296533" version="7" timestamp="2009-01-05T19:20:08Z" changeset="738622" uid="5553" user="dkt">
+		<nd ref="316161964"/>
+		<nd ref="327451727"/>
+		<nd ref="270413729"/>
+		<tag k="highway" v="service"/>
+		<tag k="created_by" v="JOSM"/>
+	</way>
+	<way id="4296592" version="12" timestamp="2017-08-29T13:20:49Z" changeset="51543381" uid="2607646" user="AUV">
+		<nd ref="25954988"/>
+		<nd ref="25954989"/>
+		<nd ref="25954990"/>
+		<nd ref="303724228"/>
+		<nd ref="4288712548"/>
+		<nd ref="25954991"/>
+		<nd ref="3813795699"/>
+		<nd ref="25926073"/>
+		<nd ref="27127987"/>
+		<nd ref="5066597086"/>
+		<nd ref="5046582460"/>
+		<nd ref="25926074"/>
+		<nd ref="25926076"/>
+		<nd ref="5066597071"/>
+		<nd ref="5046582474"/>
+		<nd ref="25926077"/>
+		<nd ref="25926079"/>
+		<nd ref="25926080"/>
+		<nd ref="5046582491"/>
+		<nd ref="25926081"/>
+		<nd ref="5046582498"/>
+		<nd ref="25926083"/>
+		<nd ref="25926085"/>
+		<nd ref="25926086"/>
+		<nd ref="26334766"/>
+		<nd ref="25926087"/>
+		<nd ref="5046582924"/>
+		<nd ref="26882605"/>
+		<nd ref="28583919"/>
+		<nd ref="315856145"/>
+		<nd ref="26683066"/>
+		<nd ref="25926100"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="朝晖路"/>
+		<tag k="name:en" v="Chaohui Road"/>
+		<tag k="name:zh" v="朝晖路"/>
+		<tag k="name:zh_pinyin" v="Cháohuī Lù"/>
+		<tag k="source" v="survey"/>
+	</way>
+	<way id="4298707" version="16" timestamp="2017-08-15T14:21:23Z" changeset="51142626" uid="2607646" user="AUV">
+		<nd ref="26197735"/>
+		<nd ref="26197734"/>
+		<nd ref="26414460"/>
+		<nd ref="348018386"/>
+		<nd ref="26414461"/>
+		<nd ref="25982049"/>
+		<nd ref="76565628"/>
+		<nd ref="25954993"/>
+		<nd ref="287524614"/>
+		<nd ref="304171287"/>
+		<nd ref="5037002564"/>
+		<nd ref="335622350"/>
+		<nd ref="335622452"/>
+		<nd ref="35833907"/>
+		<nd ref="26484297"/>
+		<nd ref="25982050"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="曙光路"/>
+		<tag k="name:en" v="Shuguang Road"/>
+		<tag k="name:zh" v="曙光路"/>
+		<tag k="name:zh_pinyin" v="Shǔguāng Lù"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+	</way>
+	<way id="4298708" version="14" timestamp="2017-06-17T08:46:54Z" changeset="49609695" uid="5888135" user="iberutan">
+		<nd ref="26198714"/>
+		<nd ref="262909253"/>
+		<nd ref="4920211350"/>
+		<nd ref="35191736"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="大关路"/>
+		<tag k="lanes" v="2"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+		<tag k="highway" v="primary"/>
+		<tag k="name:en" v="Daguan Road"/>
+		<tag k="name:zh" v="大关路"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="name:zh_pinyin" v="Dàguān Lù"/>
+	</way>
+	<way id="4305243" version="9" timestamp="2017-11-02T12:58:00Z" changeset="53450993" uid="4816761" user="Austin Zhu">
+		<nd ref="26041229"/>
+		<nd ref="26391714"/>
+		<nd ref="268978266"/>
+		<nd ref="25926086"/>
+		<nd ref="26447116"/>
+		<nd ref="27447251"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="建国北路"/>
+		<tag k="name:en" v="North Jianguo Road"/>
+		<tag k="name:zh" v="建国北路"/>
+		<tag k="name:zh_pinyin" v="Jiànguó Běi Lù"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+	</way>
+	<way id="4305247" version="20" timestamp="2017-08-10T06:13:52Z" changeset="50989990" uid="6161085" user="方恨少">
+		<nd ref="26291990"/>
+		<nd ref="26414457"/>
+		<nd ref="26414459"/>
+		<nd ref="26041463"/>
+		<nd ref="25954992"/>
+		<nd ref="243682010"/>
+		<nd ref="26263993"/>
+		<nd ref="25982066"/>
+		<nd ref="26291981"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="service"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="天目山路"/>
+		<tag k="name:en" v="Tian Mu Shan Road"/>
+		<tag k="name:zh" v="天目山路"/>
+		<tag k="name:zh_pinyin" v="Tiānmùshān Lù"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+	</way>
+	<way id="4305248" version="14" timestamp="2017-08-24T05:25:03Z" changeset="51394396" uid="6161085" user="方恨少">
+		<nd ref="26041466"/>
+		<nd ref="3866682023"/>
+		<nd ref="26683076"/>
+		<nd ref="5031428459"/>
+		<nd ref="5031428464"/>
+		<nd ref="332167572"/>
+		<nd ref="4839643175"/>
+		<nd ref="26334767"/>
+		<nd ref="26041230"/>
+		<nd ref="4839643178"/>
+		<nd ref="4217388334"/>
+		<nd ref="332167570"/>
+		<nd ref="5055225461"/>
+		<nd ref="3794259307"/>
+		<nd ref="35309115"/>
+		<nd ref="26041447"/>
+		<nd ref="316562803"/>
+		<nd ref="3373043146"/>
+		<nd ref="32757091"/>
+		<nd ref="3373043145"/>
+		<nd ref="26304819"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="环城北路"/>
+		<tag k="name:en" v="Huan Cheng North Road"/>
+		<tag k="name:zh" v="环城北路"/>
+		<tag k="name:zh_pinyin" v="Huán Chéng Běi Lù"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+	</way>
+	<way id="4317540" version="15" timestamp="2017-09-24T10:21:59Z" changeset="52324849" uid="2607646" user="AUV">
+		<nd ref="27272077"/>
+		<nd ref="27272082"/>
+		<nd ref="26334870"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="体育场路"/>
+		<tag k="name:en" v="Tiyuchang Road"/>
+		<tag k="name:zh" v="体育场路"/>
+		<tag k="name:zh_pinyin" v="Tǐyùchǎng Lù"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+	</way>
+	<way id="4317648" version="15" timestamp="2016-07-27T08:01:24Z" changeset="41055990" uid="1951271" user="Qiboua">
+		<nd ref="295257936"/>
+		<nd ref="295257947"/>
+		<nd ref="31886131"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="古翠路"/>
+		<tag k="lanes" v="2"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+		<tag k="highway" v="primary"/>
+		<tag k="name:en" v="Gucui Road"/>
+		<tag k="name:zh" v="古翠路"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="name:zh_pinyin" v="Gǔcuì Lù"/>
+	</way>
+	<way id="4317649" version="18" timestamp="2016-05-15T12:55:46Z" changeset="39330473" uid="2607646" user="AUV">
+		<nd ref="26197696"/>
+		<nd ref="332365608"/>
+		<nd ref="332253323"/>
+		<nd ref="4187252289"/>
+		<nd ref="31319874"/>
+		<nd ref="26414456"/>
+		<nd ref="30067181"/>
+		<nd ref="31885698"/>
+		<nd ref="26197698"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="文三路"/>
+		<tag k="lanes" v="4"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="name:en" v="Wensan Road"/>
+		<tag k="name:zh" v="文三路"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="name:zh_pinyin" v="Wénsān Lù"/>
+	</way>
+	<way id="4317650" version="15" timestamp="2017-11-06T17:15:10Z" changeset="53560273" uid="2607646" user="AUV">
+		<nd ref="26304823"/>
+		<nd ref="26882589"/>
+		<nd ref="26921436"/>
+		<nd ref="26921431"/>
+		<nd ref="30628188"/>
+		<nd ref="26334768"/>
+		<nd ref="26041229"/>
+		<nd ref="5214716098"/>
+		<nd ref="5066597100"/>
+		<nd ref="5066597221"/>
+		<nd ref="5066597108"/>
+		<nd ref="158179053"/>
+		<nd ref="36518249"/>
+		<nd ref="27127982"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="文晖路"/>
+		<tag k="name:en" v="Wenhui Road"/>
+		<tag k="name:zh" v="文晖路"/>
+		<tag k="name:zh_pinyin" v="Wénhuī Lù"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+	</way>
+	<way id="4317651" version="18" timestamp="2017-09-15T11:30:13Z" changeset="52066150" uid="5888135" user="iberutan">
+		<nd ref="26197709"/>
+		<nd ref="262909295"/>
+		<nd ref="333789551"/>
+		<nd ref="26197715"/>
+		<nd ref="33707266"/>
+		<nd ref="26197716"/>
+		<nd ref="314935838"/>
+		<nd ref="33993361"/>
+		<nd ref="33993354"/>
+		<nd ref="314934739"/>
+		<nd ref="4187252312"/>
+		<nd ref="320959701"/>
+		<nd ref="303472252"/>
+		<nd ref="26882524"/>
+		<nd ref="332056034"/>
+		<nd ref="246481662"/>
+		<nd ref="26197718"/>
+		<nd ref="31885691"/>
+		<nd ref="352666870"/>
+		<nd ref="246481684"/>
+		<nd ref="26646153"/>
+		<nd ref="26197719"/>
+		<nd ref="326322303"/>
+		<nd ref="246481919"/>
+		<nd ref="30918163"/>
+		<nd ref="5107310089"/>
+		<nd ref="5107310060"/>
+		<nd ref="26197720"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="文二路"/>
+		<tag k="name:en" v="Wen&#39;Er Road"/>
+		<tag k="name:zh" v="文二路"/>
+		<tag k="name:zh_pinyin" v="Wén Èr Lù"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+		<tag k="stopping" v="no"/>
+	</way>
+	<way id="4317652" version="9" timestamp="2017-09-15T11:30:13Z" changeset="52066150" uid="5888135" user="iberutan">
+		<nd ref="26197720"/>
+		<nd ref="331974977"/>
+		<nd ref="5107309913"/>
+		<nd ref="33992689"/>
+		<nd ref="318040317"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="潮王路"/>
+		<tag k="name:en" v="Chaowang Road"/>
+		<tag k="name:zh" v="潮王路"/>
+		<tag k="name:zh_pinyin" v="Cháowáng Lù"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+	</way>
+	<way id="4317653" version="20" timestamp="2017-10-31T23:00:03Z" changeset="53410683" uid="3402499" user="violet_fei">
+		<nd ref="26197725"/>
+		<nd ref="333789869"/>
+		<nd ref="2624382120"/>
+		<nd ref="5067831506"/>
+		<nd ref="5067831499"/>
+		<nd ref="27127994"/>
+		<nd ref="33720423"/>
+		<nd ref="4807836870"/>
+		<nd ref="277256419"/>
+		<nd ref="337268666"/>
+		<nd ref="27127995"/>
+		<nd ref="332556598"/>
+		<nd ref="5203261727"/>
+		<nd ref="5203261724"/>
+		<nd ref="27127996"/>
+		<nd ref="5203260518"/>
+		<nd ref="5203260517"/>
+		<nd ref="27127997"/>
+		<nd ref="3714677745"/>
+		<nd ref="3714677737"/>
+		<nd ref="340310733"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="文一西路 Wenyi Road (West)"/>
+		<tag k="name:en" v="Wenyi Road (West)"/>
+		<tag k="name:zh" v="文一西路"/>
+		<tag k="name:zh_pinyin" v="Wényī Xī Lù"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+	</way>
+	<relation id="7780403" version="1" timestamp="2017-12-04T04:51:48Z" changeset="54317578" uid="5888135" user="iberutan">
+		<member type="way" ref="544285356" role="outer"/>
+		<member type="way" ref="544454096" role="outer"/>
+		<tag k="landuse" v="forest"/>
+		<tag k="type" v="multipolygon"/>
+	</relation>
+	<relation id="7781244" version="3" timestamp="2017-12-04T12:13:22Z" changeset="54327287" uid="4816761" user="Austin Zhu">
+		<member type="way" ref="544526056" role="outer"/>
+		<member type="way" ref="544513172" role="outer"/>
+		<member type="way" ref="544513866" role="outer"/>
+		<member type="way" ref="544513171" role="outer"/>
+		<member type="way" ref="542865520" role="outer"/>
+		<member type="way" ref="542865522" role="outer"/>
+		<member type="way" ref="542898410" role="outer"/>
+		<member type="way" ref="542928122" role="outer"/>
+		<member type="way" ref="544513170" role="outer"/>
+		<member type="node" ref="5124122069" role="admin_centre"/>
+		<tag k="admin_level" v="8"/>
+		<tag k="boundary" v="administrative"/>
+		<tag k="name" v="太湖新城镇"/>
+		<tag k="type" v="boundary"/>
+	</relation>
+	<relation id="7781425" version="1" timestamp="2017-12-04T12:13:12Z" changeset="54327287" uid="4816761" user="Austin Zhu">
+		<member type="node" ref="244083591" role="admin_centre"/>
+		<member type="way" ref="544526058" role="outer"/>
+		<member type="way" ref="544526057" role="outer"/>
+		<member type="way" ref="243633333" role="outer"/>
+		<member type="way" ref="542928118" role="outer"/>
+		<member type="way" ref="542872947" role="outer"/>
+		<member type="way" ref="544526056" role="outer"/>
+		<tag k="admin_level" v="8"/>
+		<tag k="boundary" v="administrative"/>
+		<tag k="name" v="七都镇"/>
+		<tag k="type" v="boundary"/>
+	</relation>
+	<relation id="7781741" version="1" timestamp="2017-12-04T14:05:58Z" changeset="54330613" uid="4816761" user="Austin Zhu">
+		<member type="way" ref="544547238" role="outer"/>
+		<member type="way" ref="543045254" role="outer"/>
+		<member type="way" ref="543045255" role="outer"/>
+		<member type="way" ref="543045257" role="outer"/>
+		<member type="way" ref="544547237" role="outer"/>
+		<tag k="admin_level" v="7"/>
+		<tag k="boundary" v="administrative"/>
+		<tag k="name" v="相城高新技术产业开发区"/>
+		<tag k="type" v="boundary"/>
+	</relation>
+</osm>
