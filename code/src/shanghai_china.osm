@@ -696,6 +696,308 @@
 	<node id="26287324" lat="30.2344955" lon="120.1505608" version="1" timestamp="2007-03-02T18:39:33Z" changeset="227323" uid="5553" user="dkt">
 		<tag k="created_by" v="JOSM"/>
 	</node>
+	<node id="26287326" lat="30.2360728" lon="120.1514967" version="1" timestamp="2007-03-02T18:39:35Z" changeset="227323" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287327" lat="30.2372861" lon="120.1518087" version="1" timestamp="2007-03-02T18:39:36Z" changeset="227323" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287329" lat="30.2377887" lon="120.1521554" version="1" timestamp="2007-03-02T18:39:37Z" changeset="227323" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287331" lat="30.238482" lon="120.1529873" version="1" timestamp="2007-03-02T18:39:38Z" changeset="227323" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287332" lat="30.2396385" lon="120.1536781" version="2" timestamp="2007-11-10T06:34:24Z" changeset="457528" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287333" lat="30.2435351" lon="120.1532647" version="2" timestamp="2009-02-25T11:31:29Z" changeset="665325" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287334" lat="30.2448312" lon="120.154282" version="2" timestamp="2009-02-25T11:31:30Z" changeset="665325" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287336" lat="30.2471518" lon="120.1555284" version="3" timestamp="2011-04-23T15:58:16Z" changeset="7944723" uid="49873" user="TooM"/>
+	<node id="26287337" lat="30.2482389" lon="120.1562468" version="3" timestamp="2017-03-06T07:59:04Z" changeset="46615758" uid="5147743" user="Jason Roy">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26287338" lat="30.2415612" lon="120.1534454" version="1" timestamp="2007-08-17T06:47:28Z" changeset="224534" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287339" lat="30.2418942" lon="120.155373" version="3" timestamp="2016-10-30T07:10:31Z" changeset="43278127" uid="274857" user="Supaplex"/>
+	<node id="26287341" lat="30.2420507" lon="120.1575981" version="3" timestamp="2017-08-22T13:43:13Z" changeset="51343153" uid="2607646" user="AUV"/>
+	<node id="26287344" lat="30.2430058" lon="120.1577365" version="1" timestamp="2007-03-02T18:39:51Z" changeset="227323" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26287345" lat="30.2429858" lon="120.159999" version="2" timestamp="2017-08-14T08:52:28Z" changeset="51103395" uid="6161085" user="方恨少"/>
+	<node id="26287347" lat="30.248164" lon="120.1597083" version="4" timestamp="2017-08-14T08:52:29Z" changeset="51103395" uid="6161085" user="方恨少">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26287349" lat="30.2563333" lon="120.1593518" version="5" timestamp="2017-08-14T08:52:28Z" changeset="51103395" uid="6161085" user="方恨少">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26287350" lat="30.2606362" lon="120.1591731" version="5" timestamp="2017-11-26T07:47:21Z" changeset="54088524" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26287353" lat="30.2662015" lon="120.1588689" version="7" timestamp="2017-04-27T14:58:26Z" changeset="48197862" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26287354" lat="30.2726596" lon="120.1587073" version="9" timestamp="2016-06-06T15:12:51Z" changeset="39840716" uid="2607646" user="AUV"/>
+	<node id="26291965" lat="30.2722994" lon="120.1320159" version="2" timestamp="2017-08-12T07:14:56Z" changeset="51051004" uid="6161085" user="方恨少"/>
+	<node id="26291966" lat="30.2722349" lon="120.1318123" version="3" timestamp="2017-08-12T07:14:56Z" changeset="51051004" uid="6161085" user="方恨少"/>
+	<node id="26291967" lat="30.2724865" lon="120.1364512" version="4" timestamp="2017-09-22T17:22:09Z" changeset="52283941" uid="2607646" user="AUV"/>
+	<node id="26291969" lat="30.270415" lon="120.1422447" version="2" timestamp="2008-12-02T04:03:43Z" changeset="39036" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26291970" lat="30.2703345" lon="120.1240717" version="2" timestamp="2008-06-29T16:24:06Z" changeset="336028" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26291971" lat="30.2703553" lon="120.1243439" version="2" timestamp="2008-11-24T08:51:09Z" changeset="788120" uid="5553" user="dkt"/>
+	<node id="26291972" lat="30.2703059" lon="120.1248776" version="2" timestamp="2008-11-24T08:51:09Z" changeset="788120" uid="5553" user="dkt"/>
+	<node id="26291973" lat="30.2700192" lon="120.1258462" version="2" timestamp="2008-11-24T08:51:09Z" changeset="788120" uid="5553" user="dkt"/>
+	<node id="26291974" lat="30.2708331" lon="120.1263725" version="2" timestamp="2008-11-24T08:51:09Z" changeset="788120" uid="5553" user="dkt"/>
+	<node id="26291975" lat="30.2715809" lon="120.1271608" version="2" timestamp="2008-11-24T08:51:09Z" changeset="788120" uid="5553" user="dkt"/>
+	<node id="26291976" lat="30.2720652" lon="120.1280405" version="2" timestamp="2008-11-24T08:51:09Z" changeset="788120" uid="5553" user="dkt"/>
+	<node id="26291977" lat="30.272342" lon="120.1289229" version="2" timestamp="2008-11-24T08:51:09Z" changeset="788120" uid="5553" user="dkt"/>
+	<node id="26291979" lat="30.2723815" lon="120.1304522" version="2" timestamp="2008-11-24T08:51:09Z" changeset="788120" uid="5553" user="dkt"/>
+	<node id="26291981" lat="30.2737544" lon="120.1290706" version="3" timestamp="2016-05-15T12:55:45Z" changeset="39330473" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26291983" lat="30.270393" lon="120.1229545" version="3" timestamp="2014-02-03T22:01:35Z" changeset="20361645" uid="2500" user="jamesks"/>
+	<node id="26291985" lat="30.2706752" lon="120.1223188" version="3" timestamp="2014-02-03T22:01:35Z" changeset="20361645" uid="2500" user="jamesks"/>
+	<node id="26291986" lat="30.272767" lon="120.1182455" version="2" timestamp="2008-06-29T16:24:13Z" changeset="336028" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26291987" lat="30.2744381" lon="120.1195089" version="4" timestamp="2010-01-24T19:39:47Z" changeset="3704901" uid="17497" user="katpatuka">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26291988" lat="30.2703524" lon="120.1510825" version="1" timestamp="2007-03-13T18:08:50Z" changeset="235452" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26291989" lat="30.2694072" lon="120.1513634" version="1" timestamp="2007-03-13T18:11:19Z" changeset="235452" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26291990" lat="30.275136" lon="120.1497421" version="3" timestamp="2017-09-24T11:39:38Z" changeset="52326432" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26291991" lat="30.26536" lon="120.1525842" version="3" timestamp="2016-02-21T11:00:44Z" changeset="37344398" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26291992" lat="30.2653324" lon="120.1520612" version="2" timestamp="2008-10-13T06:50:34Z" changeset="296010" uid="5553" user="dkt"/>
+	<node id="26291993" lat="30.26552" lon="120.1494479" version="2" timestamp="2008-10-13T06:50:34Z" changeset="296010" uid="5553" user="dkt"/>
+	<node id="26304183" lat="30.2276337" lon="120.1338176" version="2" timestamp="2012-04-07T14:49:35Z" changeset="11214868" uid="49873" user="TooM"/>
+	<node id="26304184" lat="30.2267312" lon="120.1336732" version="3" timestamp="2012-04-07T14:49:35Z" changeset="11214868" uid="49873" user="TooM"/>
+	<node id="26304185" lat="30.2245352" lon="120.1331017" version="2" timestamp="2012-04-07T14:49:35Z" changeset="11214868" uid="49873" user="TooM"/>
+	<node id="26304186" lat="30.2215845" lon="120.1316996" version="1" timestamp="2007-03-10T20:46:25Z" changeset="233383" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304187" lat="30.2194137" lon="120.1308557" version="1" timestamp="2007-03-10T20:46:26Z" changeset="233383" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304188" lat="30.2167602" lon="120.1311248" version="2" timestamp="2012-04-12T15:34:00Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26304189" lat="30.2135631" lon="120.1306861" version="4" timestamp="2012-04-12T15:34:00Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26304190" lat="30.2110901" lon="120.1302612" version="2" timestamp="2012-04-12T15:34:00Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26304191" lat="30.210206" lon="120.1303258" version="2" timestamp="2012-04-12T15:34:00Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26304192" lat="30.2082041" lon="120.1312667" version="1" timestamp="2007-03-10T20:46:20Z" changeset="233383" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304194" lat="30.2069551" lon="120.1319674" version="2" timestamp="2012-04-12T15:34:00Z" changeset="11277693" uid="49873" user="TooM"/>
+	<node id="26304195" lat="30.2055607" lon="120.1334382" version="2" timestamp="2012-04-12T14:46:02Z" changeset="11277256" uid="49873" user="TooM"/>
+	<node id="26304351" lat="30.2810212" lon="120.1787112" version="1" timestamp="2007-03-22T15:55:40Z" changeset="241357" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304354" lat="30.2783712" lon="120.180916" version="3" timestamp="2016-07-10T17:18:38Z" changeset="40634495" uid="2607646" user="AUV"/>
+	<node id="26304777" lat="30.2705948" lon="120.1321453" version="3" timestamp="2017-08-15T14:21:22Z" changeset="51142626" uid="2607646" user="AUV"/>
+	<node id="26304778" lat="30.2712319" lon="120.1366684" version="2" timestamp="2009-01-08T11:57:45Z" changeset="756177" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304779" lat="30.2673809" lon="120.147879" version="1" timestamp="2007-08-11T13:15:46Z" changeset="204514" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304780" lat="30.2683407" lon="120.1510566" version="2" timestamp="2017-09-22T17:30:29Z" changeset="52284196" uid="2607646" user="AUV"/>
+	<node id="26304781" lat="30.2684842" lon="120.1516531" version="2" timestamp="2009-04-27T09:06:12Z" changeset="985641" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304783" lat="30.1981724" lon="120.1816157" version="2" timestamp="2012-03-09T12:14:24Z" changeset="10918833" uid="621236" user="vivimice"/>
+	<node id="26304784" lat="30.1958844" lon="120.1805773" version="2" timestamp="2012-03-09T11:57:55Z" changeset="10918833" uid="621236" user="vivimice"/>
+	<node id="26304786" lat="30.1851565" lon="120.1565059" version="9" timestamp="2012-03-09T13:06:25Z" changeset="10918833" uid="621236" user="vivimice"/>
+	<node id="26304787" lat="30.1846159" lon="120.1545342" version="10" timestamp="2017-09-12T03:28:45Z" changeset="51959281" uid="6495963" user="Haoran1062">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26304788" lat="30.1846604" lon="120.1520647" version="9" timestamp="2012-03-09T13:06:25Z" changeset="10918833" uid="621236" user="vivimice"/>
+	<node id="26304789" lat="30.1859172" lon="120.1480076" version="9" timestamp="2012-03-09T13:06:25Z" changeset="10918833" uid="621236" user="vivimice"/>
+	<node id="26304790" lat="30.1883938" lon="120.1440218" version="9" timestamp="2012-03-09T13:06:25Z" changeset="10918833" uid="621236" user="vivimice"/>
+	<node id="26304793" lat="30.190293" lon="120.1371339" version="11" timestamp="2012-04-04T18:15:51Z" changeset="11179983" uid="49873" user="TooM"/>
+	<node id="26304795" lat="30.2024457" lon="120.1319413" version="1" timestamp="2007-03-10T20:46:38Z" changeset="233383" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304796" lat="30.2037949" lon="120.1322691" version="3" timestamp="2012-04-12T14:46:02Z" changeset="11277256" uid="49873" user="TooM"/>
+	<node id="26304797" lat="30.2044642" lon="120.1322988" version="1" timestamp="2007-03-10T20:46:35Z" changeset="233383" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304798" lat="30.2213976" lon="120.1694925" version="2" timestamp="2012-10-23T20:03:59Z" changeset="13609598" uid="23785" user="greecemapper"/>
+	<node id="26304799" lat="30.2254792" lon="120.1691004" version="1" timestamp="2007-03-03T10:05:42Z" changeset="228087" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304803" lat="30.2452199" lon="120.1762623" version="2" timestamp="2016-07-25T15:29:36Z" changeset="41015169" uid="3450290" user="ff5722"/>
+	<node id="26304804" lat="30.2455241" lon="120.1766241" version="3" timestamp="2016-07-25T15:29:36Z" changeset="41015169" uid="3450290" user="ff5722"/>
+	<node id="26304805" lat="30.2457153" lon="120.1765631" version="3" timestamp="2016-07-25T15:29:36Z" changeset="41015169" uid="3450290" user="ff5722"/>
+	<node id="26304806" lat="30.2472201" lon="120.1773684" version="2" timestamp="2015-02-18T06:23:20Z" changeset="28925342" uid="2607646" user="AUV"/>
+	<node id="26304807" lat="30.2473459" lon="120.1765952" version="3" timestamp="2016-07-25T15:29:36Z" changeset="41015169" uid="3450290" user="ff5722"/>
+	<node id="26304808" lat="30.247185" lon="120.176145" version="2" timestamp="2009-01-07T17:48:13Z" changeset="752138" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304811" lat="30.251766" lon="120.1567965" version="2" timestamp="2017-03-06T07:59:04Z" changeset="46615758" uid="5147743" user="Jason Roy"/>
+	<node id="26304812" lat="30.2530265" lon="120.1584051" version="4" timestamp="2017-11-26T07:47:21Z" changeset="54088524" uid="2607646" user="AUV"/>
+	<node id="26304814" lat="30.2591681" lon="120.1579893" version="2" timestamp="2016-02-21T11:00:45Z" changeset="37344398" uid="2607646" user="AUV"/>
+	<node id="26304818" lat="30.2771366" lon="120.131659" version="3" timestamp="2016-10-16T12:11:08Z" changeset="42934840" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26304819" lat="30.2760665" lon="120.1617634" version="4" timestamp="2012-04-16T16:07:28Z" changeset="11323641" uid="49873" user="TooM">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26304821" lat="30.2602623" lon="120.1717038" version="3" timestamp="2017-11-26T07:47:21Z" changeset="54088524" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26304822" lat="30.2861693" lon="120.1835991" version="1" timestamp="2007-03-31T06:25:00Z" changeset="250408" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304823" lat="30.285277" lon="120.1765148" version="3" timestamp="2017-08-25T07:09:14Z" changeset="51425578" uid="5888135" user="iberutan">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26304824" lat="30.2869937" lon="120.1879458" version="2" timestamp="2007-10-25T03:13:10Z" changeset="311346" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304825" lat="30.2855772" lon="120.1870747" version="2" timestamp="2009-01-26T11:36:52Z" changeset="838640" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304826" lat="30.2818996" lon="120.1866078" version="2" timestamp="2016-05-31T13:39:09Z" changeset="39688894" uid="2607646" user="AUV"/>
+	<node id="26304827" lat="30.2807201" lon="120.1864415" version="2" timestamp="2009-01-26T11:11:20Z" changeset="838640" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304828" lat="30.2798911" lon="120.1864085" version="1" timestamp="2007-03-28T22:10:43Z" changeset="248970" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304831" lat="30.2715406" lon="120.1866496" version="1" timestamp="2007-03-03T10:06:59Z" changeset="228087" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304832" lat="30.2669523" lon="120.1867118" version="2" timestamp="2017-08-13T02:48:29Z" changeset="51071249" uid="6161085" user="方恨少"/>
+	<node id="26304833" lat="30.2663697" lon="120.1865782" version="3" timestamp="2017-08-13T02:48:29Z" changeset="51071249" uid="6161085" user="方恨少"/>
+	<node id="26304834" lat="30.2634983" lon="120.1859563" version="1" timestamp="2007-03-03T10:07:03Z" changeset="228087" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304835" lat="30.2621463" lon="120.185991" version="1" timestamp="2007-03-03T10:07:04Z" changeset="228087" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26304836" lat="30.2599101" lon="120.1851963" version="4" timestamp="2017-08-13T02:48:29Z" changeset="51071249" uid="6161085" user="方恨少"/>
+	<node id="26307961" lat="30.2937299" lon="120.1698097" version="4" timestamp="2016-07-10T17:18:38Z" changeset="40634495" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26315510" lat="30.2542243" lon="120.1337949" version="5" timestamp="2014-06-09T12:48:00Z" changeset="22829433" uid="49873" user="TooM"/>
+	<node id="26315511" lat="30.2539219" lon="120.1341461" version="6" timestamp="2014-06-09T12:48:00Z" changeset="22829433" uid="49873" user="TooM"/>
+	<node id="26315512" lat="30.252808" lon="120.134096" version="3" timestamp="2014-06-09T12:48:00Z" changeset="22829433" uid="49873" user="TooM"/>
+	<node id="26315515" lat="30.2523712" lon="120.1348832" version="2" timestamp="2008-11-21T12:50:01Z" changeset="776973" uid="5553" user="dkt"/>
+	<node id="26315522" lat="30.2523698" lon="120.1365043" version="2" timestamp="2008-11-21T12:50:01Z" changeset="776973" uid="5553" user="dkt"/>
+	<node id="26315526" lat="30.2523525" lon="120.1371465" version="2" timestamp="2008-11-21T12:50:02Z" changeset="776973" uid="5553" user="dkt"/>
+	<node id="26315527" lat="30.252706" lon="120.1390504" version="2" timestamp="2008-11-21T12:50:02Z" changeset="776973" uid="5553" user="dkt"/>
+	<node id="26315528" lat="30.2528381" lon="120.1394673" version="3" timestamp="2014-06-09T12:48:00Z" changeset="22829433" uid="49873" user="TooM"/>
+	<node id="26315529" lat="30.2535121" lon="120.1402059" version="4" timestamp="2014-06-09T12:48:00Z" changeset="22829433" uid="49873" user="TooM"/>
+	<node id="26315530" lat="30.2538106" lon="120.1398261" version="2" timestamp="2014-06-09T12:48:00Z" changeset="22829433" uid="49873" user="TooM"/>
+	<node id="26315531" lat="30.2538024" lon="120.1404912" version="3" timestamp="2014-06-09T12:48:00Z" changeset="22829433" uid="49873" user="TooM"/>
+	<node id="26315532" lat="30.2549374" lon="120.1416786" version="2" timestamp="2008-11-21T12:50:58Z" changeset="776973" uid="5553" user="dkt"/>
+	<node id="26315533" lat="30.2604401" lon="120.1466547" version="8" timestamp="2008-11-21T12:51:27Z" changeset="776973" uid="5553" user="dkt"/>
+	<node id="26334766" lat="30.2810507" lon="120.1732713" version="2" timestamp="2008-06-28T08:35:13Z" changeset="323933" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26334767" lat="30.2772098" lon="120.1745867" version="2" timestamp="2008-06-29T16:26:13Z" changeset="336028" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26334768" lat="30.2847328" lon="120.1723591" version="3" timestamp="2016-01-18T11:44:06Z" changeset="36654479" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26334772" lat="30.2906726" lon="120.1725842" version="3" timestamp="2016-07-27T08:48:05Z" changeset="41057062" uid="1951271" user="Qiboua">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26334773" lat="30.2879636" lon="120.1720749" version="3" timestamp="2016-07-27T09:23:09Z" changeset="41057809" uid="1951271" user="Qiboua"/>
+	<node id="26334774" lat="30.2876302" lon="120.1720352" version="2" timestamp="2016-07-27T09:23:09Z" changeset="41057809" uid="1951271" user="Qiboua"/>
+	<node id="26334775" lat="30.2872134" lon="120.1719671" version="2" timestamp="2016-07-27T09:23:09Z" changeset="41057809" uid="1951271" user="Qiboua"/>
+	<node id="26334776" lat="30.2866683" lon="120.1719693" version="2" timestamp="2016-07-27T09:23:09Z" changeset="41057809" uid="1951271" user="Qiboua"/>
+	<node id="26334870" lat="30.2725672" lon="120.1756523" version="4" timestamp="2017-08-28T14:53:59Z" changeset="51512242" uid="2607646" user="AUV"/>
+	<node id="26334872" lat="30.2698165" lon="120.1760266" version="2" timestamp="2007-11-27T05:44:36Z" changeset="629577" uid="5553" user="dkt">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26334873" lat="30.2668917" lon="120.1763275" version="3" timestamp="2017-05-07T15:13:54Z" changeset="48477602" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="26363002" lat="30.267651" lon="120.097115" version="8" timestamp="2012-03-09T11:20:08Z" changeset="10918422" uid="621236" user="vivimice">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26363003" lat="30.2670636" lon="120.0960039" version="4" timestamp="2012-03-09T11:20:08Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26363004" lat="30.2665795" lon="120.0947018" version="4" timestamp="2012-03-09T11:20:08Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26363007" lat="30.2662561" lon="120.0930935" version="4" timestamp="2012-03-09T11:20:08Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26363008" lat="30.2648155" lon="120.0856037" version="4" timestamp="2012-03-09T11:20:08Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26363009" lat="30.2631719" lon="120.0721196" version="5" timestamp="2012-03-09T11:20:08Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26364126" lat="30.2630515" lon="120.0721754" version="3" timestamp="2012-03-09T11:20:08Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26364127" lat="30.2632944" lon="120.0735562" version="2" timestamp="2012-03-09T11:20:09Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26364128" lat="30.2646733" lon="120.0856142" version="2" timestamp="2012-03-09T11:20:09Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26364129" lat="30.2660743" lon="120.0929504" version="3" timestamp="2012-03-09T11:20:09Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26364130" lat="30.2664793" lon="120.0947222" version="2" timestamp="2012-03-09T11:20:09Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26364131" lat="30.2669735" lon="120.0960528" version="2" timestamp="2012-03-09T11:20:09Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26364132" lat="30.2675155" lon="120.0971337" version="7" timestamp="2012-03-09T11:20:09Z" changeset="10918422" uid="621236" user="vivimice">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26364133" lat="30.2727642" lon="120.1079687" version="2" timestamp="2012-03-09T11:20:09Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26364138" lat="30.2737005" lon="120.1099701" version="2" timestamp="2012-03-09T11:20:09Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26364148" lat="30.2740005" lon="120.111189" version="2" timestamp="2012-03-09T11:20:10Z" changeset="10918422" uid="621236" user="vivimice"/>
+	<node id="26364150" lat="30.2742338" lon="120.115332" version="3" timestamp="2012-03-09T11:20:10Z" changeset="10918422" uid="621236" user="vivimice">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26364151" lat="30.2742283" lon="120.1193816" version="4" timestamp="2016-10-16T12:11:08Z" changeset="42934840" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26364152" lat="30.2736713" lon="120.125518" version="2" timestamp="2008-06-28T08:33:11Z" changeset="323933" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26364153" lat="30.2734156" lon="120.1289774" version="3" timestamp="2016-05-15T12:55:45Z" changeset="39330473" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26364154" lat="30.2731717" lon="120.1317308" version="2" timestamp="2008-06-28T08:32:58Z" changeset="323933" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26364155" lat="30.2731817" lon="120.1319335" version="3" timestamp="2017-08-12T07:14:56Z" changeset="51051004" uid="6161085" user="方恨少">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="26364156" lat="30.2735517" lon="120.1363105" version="4" timestamp="2009-01-08T11:57:46Z" changeset="756177" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26364157" lat="30.2740173" lon="120.140948" version="2" timestamp="2008-06-28T08:33:18Z" changeset="323933" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26364159" lat="30.2748524" lon="120.1497693" version="2" timestamp="2008-06-29T16:24:58Z" changeset="336028" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26364162" lat="30.2750573" lon="120.152544" version="2" timestamp="2008-06-29T16:25:12Z" changeset="336028" uid="5553" user="dkt">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="26364164" lat="30.2754375" lon="120.1574053" version="5" timestamp="2008-11-21T12:32:07Z" changeset="776973" uid="5553" user="dkt"/>
+	<node id="26364167" lat="30.2758868" lon="120.1617878" version="4" timestamp="2015-02-26T10:55:37Z" changeset="29110764" uid="2607646" user="AUV">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
 	<way id="4296533" version="7" timestamp="2009-01-05T19:20:08Z" changeset="738622" uid="5553" user="dkt">
 		<nd ref="316161964"/>
 		<nd ref="327451727"/>
@@ -1030,6 +1332,925 @@
 		<tag k="name:zh_pinyin" v="Wényī Xī Lù"/>
 		<tag k="oneway" v="yes"/>
 		<tag k="source" v="survey"/>
+	</way>
+	<way id="4317655" version="23" timestamp="2017-09-27T15:43:11Z" changeset="52417461" uid="2607646" user="AUV">
+		<nd ref="25926100"/>
+		<nd ref="332165922"/>
+		<nd ref="26391719"/>
+		<nd ref="26304823"/>
+		<nd ref="27002381"/>
+		<nd ref="5057734437"/>
+		<nd ref="27002380"/>
+		<nd ref="26198710"/>
+		<nd ref="332165925"/>
+		<nd ref="5057734474"/>
+		<nd ref="27002379"/>
+		<nd ref="5057734479"/>
+		<nd ref="26334772"/>
+		<nd ref="26041224"/>
+		<nd ref="5133302183"/>
+		<nd ref="26307961"/>
+		<nd ref="4973817306"/>
+		<nd ref="332165807"/>
+		<nd ref="5104952696"/>
+		<nd ref="125703623"/>
+		<nd ref="246482264"/>
+		<nd ref="4618079028"/>
+		<nd ref="5046582960"/>
+		<nd ref="125704123"/>
+		<nd ref="387687053"/>
+		<nd ref="31893858"/>
+		<nd ref="30067207"/>
+		<nd ref="4217388298"/>
+		<nd ref="4322705344"/>
+		<nd ref="4322705343"/>
+		<nd ref="304207048"/>
+		<nd ref="26198714"/>
+		<nd ref="30067191"/>
+		<nd ref="4322705340"/>
+		<nd ref="4322705341"/>
+		<nd ref="4984806587"/>
+		<nd ref="30067192"/>
+		<nd ref="4322705337"/>
+		<nd ref="30067193"/>
+		<nd ref="35191093"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="绍兴路"/>
+		<tag k="name:en" v="Shaoxing Road"/>
+		<tag k="name:zh" v="绍兴路"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+	</way>
+	<way id="4317657" version="9" timestamp="2017-09-30T16:05:52Z" changeset="52515429" uid="2135605" user="ZHZHZHH">
+		<nd ref="5139775788"/>
+		<nd ref="3387229396"/>
+		<nd ref="2652716468"/>
+		<nd ref="27246013"/>
+		<nd ref="2652716405"/>
+		<nd ref="25982050"/>
+		<nd ref="76568052"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="求是路"/>
+		<tag k="name:en" v="Qiushi Road"/>
+		<tag k="name:zh" v="求是路"/>
+		<tag k="name:zh_pinyin" v="Qiúshì Lù"/>
+		<tag k="source" v="survey"/>
+	</way>
+	<way id="4317769" version="38" timestamp="2017-11-01T14:33:57Z" changeset="53425924" uid="6435863" user="newsonia">
+		<nd ref="331229682"/>
+		<nd ref="331229683"/>
+		<nd ref="331229533"/>
+		<nd ref="331229534"/>
+		<nd ref="331229535"/>
+		<nd ref="331229551"/>
+		<nd ref="331229564"/>
+		<nd ref="331229567"/>
+		<nd ref="331229571"/>
+		<nd ref="331229579"/>
+		<nd ref="331229586"/>
+		<nd ref="331229592"/>
+		<nd ref="331229595"/>
+		<nd ref="331229601"/>
+		<nd ref="331229608"/>
+		<nd ref="331229620"/>
+		<nd ref="331229627"/>
+		<nd ref="331229633"/>
+		<nd ref="331229643"/>
+		<nd ref="331229651"/>
+		<nd ref="331229657"/>
+		<nd ref="331229665"/>
+		<nd ref="331229674"/>
+		<nd ref="26199689"/>
+		<nd ref="26199688"/>
+		<nd ref="26199687"/>
+		<nd ref="26199686"/>
+		<nd ref="26199685"/>
+		<nd ref="26199684"/>
+		<nd ref="1715822120"/>
+		<nd ref="26199683"/>
+		<nd ref="1715822100"/>
+		<nd ref="1715822099"/>
+		<nd ref="1715822111"/>
+		<nd ref="1715822114"/>
+		<nd ref="1715822106"/>
+		<nd ref="1715822089"/>
+		<nd ref="1715822092"/>
+		<nd ref="1715822094"/>
+		<nd ref="1715822091"/>
+		<nd ref="1715822087"/>
+		<nd ref="1715822086"/>
+		<nd ref="1715822081"/>
+		<nd ref="1715822075"/>
+		<nd ref="1715822065"/>
+		<nd ref="1715822073"/>
+		<nd ref="1715822063"/>
+		<nd ref="1715822061"/>
+		<nd ref="1715822043"/>
+		<nd ref="1715822041"/>
+		<nd ref="1715822030"/>
+		<nd ref="1715822040"/>
+		<nd ref="1715822029"/>
+		<nd ref="1715822023"/>
+		<nd ref="1715822007"/>
+		<nd ref="1715822002"/>
+		<nd ref="1715821953"/>
+		<nd ref="1715821905"/>
+		<nd ref="1715821878"/>
+		<nd ref="1715821886"/>
+		<nd ref="1715821877"/>
+		<nd ref="1715821861"/>
+		<nd ref="1715821863"/>
+		<nd ref="1715821873"/>
+		<nd ref="1715821893"/>
+		<nd ref="1715821882"/>
+		<nd ref="1715821911"/>
+		<nd ref="1715821939"/>
+		<nd ref="1715821944"/>
+		<nd ref="1715821970"/>
+		<nd ref="1715821968"/>
+		<nd ref="1715821999"/>
+		<nd ref="1715822001"/>
+		<nd ref="1715821943"/>
+		<nd ref="1715821917"/>
+		<nd ref="1715821895"/>
+		<nd ref="1715821892"/>
+		<nd ref="1715821896"/>
+		<nd ref="1715821910"/>
+		<nd ref="1715821915"/>
+		<nd ref="1715821906"/>
+		<nd ref="1715821891"/>
+		<nd ref="1715821870"/>
+		<nd ref="1715821890"/>
+		<nd ref="1715821897"/>
+		<nd ref="1715821918"/>
+		<nd ref="1715821948"/>
+		<nd ref="1715821965"/>
+		<nd ref="1715821955"/>
+		<nd ref="1715821942"/>
+		<nd ref="1715821941"/>
+		<nd ref="1715821927"/>
+		<nd ref="1715821926"/>
+		<nd ref="1715821913"/>
+		<nd ref="1715821920"/>
+		<nd ref="1715821932"/>
+		<nd ref="1715821947"/>
+		<nd ref="1715821973"/>
+		<nd ref="1715821997"/>
+		<nd ref="1715822027"/>
+		<nd ref="1715822037"/>
+		<nd ref="1715822038"/>
+		<nd ref="1715822042"/>
+		<nd ref="1715822048"/>
+		<nd ref="1715822056"/>
+		<nd ref="1715822053"/>
+		<nd ref="1715822078"/>
+		<nd ref="1715822084"/>
+		<nd ref="1715822082"/>
+		<nd ref="1715822088"/>
+		<nd ref="1715822095"/>
+		<nd ref="331229741"/>
+		<nd ref="331229739"/>
+		<nd ref="331229738"/>
+		<nd ref="26199682"/>
+		<nd ref="331229736"/>
+		<nd ref="331229732"/>
+		<nd ref="331229716"/>
+		<nd ref="331229727"/>
+		<nd ref="26199681"/>
+		<nd ref="26199680"/>
+		<nd ref="26199679"/>
+		<nd ref="331229684"/>
+		<nd ref="331229695"/>
+		<nd ref="331229687"/>
+		<nd ref="331229690"/>
+		<nd ref="331229689"/>
+		<nd ref="331229698"/>
+		<nd ref="331229697"/>
+		<nd ref="331229700"/>
+		<nd ref="331229702"/>
+		<nd ref="331229710"/>
+		<nd ref="331229712"/>
+		<nd ref="331229714"/>
+		<nd ref="331229704"/>
+		<nd ref="26199678"/>
+		<nd ref="26199677"/>
+		<nd ref="26199676"/>
+		<nd ref="331240668"/>
+		<nd ref="26199675"/>
+		<nd ref="331240622"/>
+		<nd ref="26199674"/>
+		<nd ref="331240620"/>
+		<nd ref="331240627"/>
+		<nd ref="331240633"/>
+		<nd ref="331240637"/>
+		<nd ref="26199672"/>
+		<nd ref="331240663"/>
+		<nd ref="331240653"/>
+		<nd ref="331240643"/>
+		<nd ref="26199671"/>
+		<nd ref="331240595"/>
+		<nd ref="331240601"/>
+		<nd ref="331240614"/>
+		<nd ref="331240608"/>
+		<nd ref="26199669"/>
+		<nd ref="331240573"/>
+		<nd ref="331240578"/>
+		<nd ref="331240585"/>
+		<nd ref="26199668"/>
+		<nd ref="26199667"/>
+		<nd ref="331240564"/>
+		<nd ref="331240560"/>
+		<nd ref="26199666"/>
+		<nd ref="26199665"/>
+		<nd ref="331240553"/>
+		<nd ref="331240557"/>
+		<nd ref="26199664"/>
+		<nd ref="331240548"/>
+		<nd ref="26199663"/>
+		<nd ref="331240531"/>
+		<nd ref="331240535"/>
+		<nd ref="331240542"/>
+		<nd ref="331240528"/>
+		<nd ref="331240524"/>
+		<nd ref="331240520"/>
+		<nd ref="331240515"/>
+		<nd ref="331240511"/>
+		<nd ref="331240506"/>
+		<nd ref="331240501"/>
+		<nd ref="331240493"/>
+		<nd ref="331240478"/>
+		<nd ref="26199662"/>
+		<nd ref="331240470"/>
+		<nd ref="26199661"/>
+		<nd ref="331240464"/>
+		<nd ref="26199660"/>
+		<nd ref="331240456"/>
+		<nd ref="331240450"/>
+		<nd ref="331240442"/>
+		<nd ref="331240433"/>
+		<nd ref="331240427"/>
+		<nd ref="26199659"/>
+		<nd ref="331240422"/>
+		<nd ref="26199658"/>
+		<nd ref="331240415"/>
+		<nd ref="26199657"/>
+		<nd ref="26199656"/>
+		<nd ref="26199655"/>
+		<nd ref="331240398"/>
+		<nd ref="331240390"/>
+		<nd ref="331240369"/>
+		<nd ref="331240378"/>
+		<nd ref="5204299167"/>
+		<nd ref="331240360"/>
+		<nd ref="5204299166"/>
+		<nd ref="331240340"/>
+		<nd ref="331240334"/>
+		<nd ref="5204299165"/>
+		<nd ref="331240316"/>
+		<nd ref="331240306"/>
+		<nd ref="331240223"/>
+		<nd ref="331240283"/>
+		<nd ref="331240298"/>
+		<nd ref="331240291"/>
+		<nd ref="331240272"/>
+		<nd ref="5204297303"/>
+		<nd ref="5204299164"/>
+		<nd ref="331240256"/>
+		<nd ref="5204299163"/>
+		<nd ref="5204299162"/>
+		<nd ref="5204299161"/>
+		<nd ref="5204297302"/>
+		<nd ref="5204297301"/>
+		<nd ref="26199651"/>
+		<nd ref="26199650"/>
+		<nd ref="331240186"/>
+		<nd ref="331240198"/>
+		<nd ref="331240177"/>
+		<nd ref="26199649"/>
+		<nd ref="26199648"/>
+		<nd ref="26199647"/>
+		<nd ref="331240168"/>
+		<nd ref="331240158"/>
+		<nd ref="331240145"/>
+		<nd ref="26199646"/>
+		<nd ref="331240140"/>
+		<nd ref="26199645"/>
+		<nd ref="1254131844"/>
+		<nd ref="1254131976"/>
+		<nd ref="26199644"/>
+		<nd ref="1254131916"/>
+		<nd ref="1254131887"/>
+		<nd ref="1254131948"/>
+		<nd ref="1254131770"/>
+		<nd ref="1254131676"/>
+		<nd ref="1254131807"/>
+		<nd ref="1254131724"/>
+		<nd ref="331239975"/>
+		<nd ref="1254131707"/>
+		<nd ref="331239985"/>
+		<nd ref="5100595607"/>
+		<nd ref="331239990"/>
+		<nd ref="331239998"/>
+		<nd ref="331240007"/>
+		<nd ref="331240019"/>
+		<nd ref="331240080"/>
+		<nd ref="331240091"/>
+		<nd ref="331240068"/>
+		<nd ref="331240055"/>
+		<nd ref="26199643"/>
+		<nd ref="331240032"/>
+		<nd ref="331240043"/>
+		<nd ref="26199642"/>
+		<nd ref="331240105"/>
+		<nd ref="331240133"/>
+		<nd ref="331240114"/>
+		<nd ref="331240124"/>
+		<nd ref="1254131773"/>
+		<nd ref="1254131856"/>
+		<nd ref="331239967"/>
+		<nd ref="1254131679"/>
+		<nd ref="1254131950"/>
+		<nd ref="331239955"/>
+		<nd ref="26199640"/>
+		<nd ref="1254131837"/>
+		<nd ref="1254131910"/>
+		<nd ref="1254131970"/>
+		<nd ref="1254131712"/>
+		<nd ref="1254131798"/>
+		<nd ref="331239941"/>
+		<nd ref="26199639"/>
+		<nd ref="1254131822"/>
+		<nd ref="1254131901"/>
+		<nd ref="1254131964"/>
+		<nd ref="1254131702"/>
+		<nd ref="26199638"/>
+		<nd ref="1254131786"/>
+		<nd ref="1254131870"/>
+		<nd ref="1254131942"/>
+		<nd ref="1254131847"/>
+		<nd ref="1254131878"/>
+		<nd ref="1254131835"/>
+		<nd ref="1254131908"/>
+		<nd ref="1254131709"/>
+		<nd ref="1254131969"/>
+		<nd ref="1254131796"/>
+		<nd ref="1254131673"/>
+		<nd ref="1254131918"/>
+		<nd ref="1254131809"/>
+		<nd ref="1254131979"/>
+		<nd ref="1254131726"/>
+		<nd ref="1254131889"/>
+		<nd ref="1254131863"/>
+		<nd ref="1254131955"/>
+		<nd ref="1254131813"/>
+		<nd ref="1254131896"/>
+		<nd ref="1254131695"/>
+		<nd ref="1254131780"/>
+		<nd ref="1256827709"/>
+		<nd ref="1256827670"/>
+		<nd ref="1256827622"/>
+		<nd ref="1256827733"/>
+		<nd ref="26199637"/>
+		<nd ref="1254131930"/>
+		<nd ref="658997008"/>
+		<nd ref="1254131991"/>
+		<nd ref="658997009"/>
+		<nd ref="658997011"/>
+		<nd ref="1256827824"/>
+		<nd ref="1254131952"/>
+		<nd ref="1256827764"/>
+		<nd ref="658997010"/>
+		<nd ref="26199636"/>
+		<nd ref="1254131692"/>
+		<nd ref="1254131860"/>
+		<nd ref="1256827899"/>
+		<nd ref="1256827816"/>
+		<nd ref="1256827631"/>
+		<nd ref="1711019162"/>
+		<nd ref="1711019166"/>
+		<nd ref="1711019167"/>
+		<nd ref="26199635"/>
+		<nd ref="331230557"/>
+		<nd ref="1256827928"/>
+		<nd ref="331230552"/>
+		<nd ref="1256827779"/>
+		<nd ref="26199634"/>
+		<nd ref="1256827809"/>
+		<nd ref="331230544"/>
+		<nd ref="1254131938"/>
+		<nd ref="331230539"/>
+		<nd ref="1254131737"/>
+		<nd ref="1254131815"/>
+		<nd ref="1254131951"/>
+		<nd ref="1254131682"/>
+		<nd ref="1254131774"/>
+		<nd ref="1254131858"/>
+		<nd ref="1254131799"/>
+		<nd ref="1254131742"/>
+		<nd ref="331230533"/>
+		<nd ref="1254131897"/>
+		<nd ref="1254131957"/>
+		<nd ref="26199633"/>
+		<nd ref="1254131986"/>
+		<nd ref="331230526"/>
+		<nd ref="1038258903"/>
+		<nd ref="1254131812"/>
+		<nd ref="1038258894"/>
+		<nd ref="1254131750"/>
+		<nd ref="1038258859"/>
+		<nd ref="1254131656"/>
+		<nd ref="1038258892"/>
+		<nd ref="1254131932"/>
+		<nd ref="1038258840"/>
+		<nd ref="1254131866"/>
+		<nd ref="1254131782"/>
+		<nd ref="1038258884"/>
+		<nd ref="1038258821"/>
+		<nd ref="1254131781"/>
+		<nd ref="1038258845"/>
+		<nd ref="1254131865"/>
+		<nd ref="1038258888"/>
+		<nd ref="1038258827"/>
+		<nd ref="1038258876"/>
+		<nd ref="1254131653"/>
+		<nd ref="1038258815"/>
+		<nd ref="1254131931"/>
+		<nd ref="1038258862"/>
+		<nd ref="1038258901"/>
+		<nd ref="1254131828"/>
+		<nd ref="1254131698"/>
+		<nd ref="1038258860"/>
+		<nd ref="1038258893"/>
+		<nd ref="1038258858"/>
+		<nd ref="1038258891"/>
+		<nd ref="1038258838"/>
+		<nd ref="1038258863"/>
+		<nd ref="331230519"/>
+		<nd ref="1254131830"/>
+		<nd ref="1254131907"/>
+		<nd ref="331230512"/>
+		<nd ref="1254131723"/>
+		<nd ref="26199632"/>
+		<nd ref="331230506"/>
+		<nd ref="331230493"/>
+		<nd ref="331230483"/>
+		<nd ref="331230471"/>
+		<nd ref="331230438"/>
+		<nd ref="1712931785"/>
+		<nd ref="1712931760"/>
+		<nd ref="1712931674"/>
+		<nd ref="331230431"/>
+		<nd ref="331230426"/>
+		<nd ref="26199631"/>
+		<nd ref="331230421"/>
+		<nd ref="331230415"/>
+		<nd ref="331230404"/>
+		<nd ref="331230411"/>
+		<nd ref="26199630"/>
+		<nd ref="331230389"/>
+		<nd ref="331230377"/>
+		<nd ref="331230372"/>
+		<nd ref="331230367"/>
+		<nd ref="26199629"/>
+		<nd ref="331230361"/>
+		<nd ref="331230355"/>
+		<nd ref="26199628"/>
+		<nd ref="331230348"/>
+		<nd ref="26199627"/>
+		<nd ref="331230340"/>
+		<nd ref="331230332"/>
+		<nd ref="26199753"/>
+		<nd ref="26199752"/>
+		<nd ref="331230324"/>
+		<nd ref="26199751"/>
+		<nd ref="26199750"/>
+		<nd ref="331230322"/>
+		<nd ref="26199749"/>
+		<nd ref="331230319"/>
+		<nd ref="26199748"/>
+		<nd ref="26199747"/>
+		<nd ref="26199746"/>
+		<nd ref="26199745"/>
+		<nd ref="331230318"/>
+		<nd ref="26199744"/>
+		<nd ref="331230317"/>
+		<nd ref="26199743"/>
+		<nd ref="26199742"/>
+		<nd ref="331230316"/>
+		<nd ref="26199741"/>
+		<nd ref="331228721"/>
+		<nd ref="331228716"/>
+		<nd ref="26199740"/>
+		<nd ref="331228699"/>
+		<nd ref="331228698"/>
+		<nd ref="331228697"/>
+		<nd ref="331228696"/>
+		<nd ref="331228694"/>
+		<nd ref="331228684"/>
+		<nd ref="331228673"/>
+		<nd ref="331228635"/>
+		<nd ref="26199739"/>
+		<nd ref="331228647"/>
+		<nd ref="26199737"/>
+		<nd ref="331228663"/>
+		<nd ref="26199735"/>
+		<nd ref="331228727"/>
+		<nd ref="331228734"/>
+		<nd ref="331228739"/>
+		<nd ref="331228745"/>
+		<nd ref="331228751"/>
+		<nd ref="331228888"/>
+		<nd ref="660060703"/>
+		<nd ref="331228926"/>
+		<nd ref="331228974"/>
+		<nd ref="331228981"/>
+		<nd ref="331228987"/>
+		<nd ref="331229951"/>
+		<nd ref="331230096"/>
+		<nd ref="331230087"/>
+		<nd ref="331230077"/>
+		<nd ref="331230068"/>
+		<nd ref="331230059"/>
+		<nd ref="331230050"/>
+		<nd ref="331230042"/>
+		<nd ref="331230038"/>
+		<nd ref="331230033"/>
+		<nd ref="331230027"/>
+		<nd ref="331230021"/>
+		<nd ref="660060679"/>
+		<nd ref="331230018"/>
+		<nd ref="331230015"/>
+		<nd ref="331230011"/>
+		<nd ref="331230010"/>
+		<nd ref="331230005"/>
+		<nd ref="331229949"/>
+		<nd ref="331230003"/>
+		<nd ref="331230004"/>
+		<nd ref="331230002"/>
+		<nd ref="331230001"/>
+		<nd ref="331229947"/>
+		<nd ref="331230000"/>
+		<nd ref="660060661"/>
+		<nd ref="331229996"/>
+		<nd ref="331229995"/>
+		<nd ref="331229994"/>
+		<nd ref="331229946"/>
+		<nd ref="331229993"/>
+		<nd ref="331229992"/>
+		<nd ref="331229991"/>
+		<nd ref="331229990"/>
+		<nd ref="331229989"/>
+		<nd ref="331229945"/>
+		<nd ref="331229979"/>
+		<nd ref="331229987"/>
+		<nd ref="331229973"/>
+		<nd ref="331229972"/>
+		<nd ref="331229971"/>
+		<nd ref="331229965"/>
+		<nd ref="331229962"/>
+		<nd ref="331229961"/>
+		<nd ref="331229960"/>
+		<nd ref="331229959"/>
+		<nd ref="331229958"/>
+		<nd ref="331229957"/>
+		<nd ref="331229944"/>
+		<nd ref="331229956"/>
+		<nd ref="331229955"/>
+		<nd ref="331229954"/>
+		<nd ref="331229952"/>
+		<nd ref="331228967"/>
+		<nd ref="331228960"/>
+		<nd ref="331228949"/>
+		<nd ref="331228935"/>
+		<nd ref="331228868"/>
+		<nd ref="331228855"/>
+		<nd ref="331228840"/>
+		<nd ref="331228823"/>
+		<nd ref="331228810"/>
+		<nd ref="331228804"/>
+		<nd ref="26199734"/>
+		<nd ref="331228785"/>
+		<nd ref="331228786"/>
+		<nd ref="331228788"/>
+		<nd ref="331228789"/>
+		<nd ref="331228790"/>
+		<nd ref="26199732"/>
+		<nd ref="26199731"/>
+		<nd ref="331228792"/>
+		<nd ref="331228791"/>
+		<nd ref="331228793"/>
+		<nd ref="331228798"/>
+		<nd ref="26199729"/>
+		<nd ref="331228794"/>
+		<nd ref="331228799"/>
+		<nd ref="331228803"/>
+		<nd ref="331228802"/>
+		<nd ref="331228800"/>
+		<nd ref="26199728"/>
+		<nd ref="26199726"/>
+		<nd ref="26199724"/>
+		<nd ref="331229943"/>
+		<nd ref="26199723"/>
+		<nd ref="26199721"/>
+		<nd ref="26199719"/>
+		<nd ref="1712852766"/>
+		<nd ref="1712852699"/>
+		<nd ref="1712852695"/>
+		<nd ref="1712852693"/>
+		<nd ref="26199718"/>
+		<nd ref="26199717"/>
+		<nd ref="26199714"/>
+		<nd ref="26199710"/>
+		<nd ref="1712852552"/>
+		<nd ref="1712852539"/>
+		<nd ref="1712852520"/>
+		<nd ref="1712852470"/>
+		<nd ref="26199709"/>
+		<nd ref="1712852642"/>
+		<nd ref="1712852776"/>
+		<nd ref="1712852785"/>
+		<nd ref="1712852850"/>
+		<nd ref="1712852852"/>
+		<nd ref="1712852864"/>
+		<nd ref="1712852993"/>
+		<nd ref="1712853008"/>
+		<nd ref="1712853048"/>
+		<nd ref="1712853079"/>
+		<nd ref="1712853129"/>
+		<nd ref="1712853169"/>
+		<nd ref="1712853181"/>
+		<nd ref="1712853226"/>
+		<nd ref="1712853136"/>
+		<nd ref="1712853085"/>
+		<nd ref="1712853082"/>
+		<nd ref="1712853060"/>
+		<nd ref="1712853067"/>
+		<nd ref="1712853049"/>
+		<nd ref="1712853012"/>
+		<nd ref="1712852980"/>
+		<nd ref="1712852989"/>
+		<nd ref="1712852927"/>
+		<nd ref="1712852921"/>
+		<nd ref="1712852925"/>
+		<nd ref="1712852941"/>
+		<nd ref="1712852929"/>
+		<nd ref="1712852946"/>
+		<nd ref="1712852991"/>
+		<nd ref="1712853004"/>
+		<nd ref="1712853016"/>
+		<nd ref="1712853044"/>
+		<nd ref="1712853072"/>
+		<nd ref="1712853127"/>
+		<nd ref="1712853150"/>
+		<nd ref="1712853160"/>
+		<nd ref="1712853229"/>
+		<nd ref="1712853248"/>
+		<nd ref="1712853270"/>
+		<nd ref="1712853362"/>
+		<nd ref="1712853436"/>
+		<nd ref="1712853370"/>
+		<nd ref="1712853414"/>
+		<nd ref="1712853442"/>
+		<nd ref="1712853444"/>
+		<nd ref="1712853382"/>
+		<nd ref="1712853428"/>
+		<nd ref="1712853449"/>
+		<nd ref="1712853465"/>
+		<nd ref="1712853520"/>
+		<nd ref="1712853537"/>
+		<nd ref="1712853583"/>
+		<nd ref="1712853590"/>
+		<nd ref="1712853587"/>
+		<nd ref="1712853543"/>
+		<nd ref="1712853560"/>
+		<nd ref="1712853530"/>
+		<nd ref="1712853525"/>
+		<nd ref="1712853509"/>
+		<nd ref="1712853473"/>
+		<nd ref="1712853456"/>
+		<nd ref="1712853375"/>
+		<nd ref="1712853447"/>
+		<nd ref="1712853422"/>
+		<nd ref="1712853365"/>
+		<nd ref="1712853355"/>
+		<nd ref="1712853349"/>
+		<nd ref="1712853343"/>
+		<nd ref="1712853335"/>
+		<nd ref="1712853321"/>
+		<nd ref="1712853279"/>
+		<nd ref="1712853328"/>
+		<nd ref="1712853317"/>
+		<nd ref="1712853257"/>
+		<nd ref="1712853251"/>
+		<nd ref="1712853246"/>
+		<nd ref="1712853241"/>
+		<nd ref="1712853234"/>
+		<nd ref="1712853221"/>
+		<nd ref="1712853175"/>
+		<nd ref="1712853156"/>
+		<nd ref="1712853164"/>
+		<nd ref="1712853144"/>
+		<nd ref="1712853090"/>
+		<nd ref="1712853075"/>
+		<nd ref="1712853052"/>
+		<nd ref="1712852997"/>
+		<nd ref="1712852986"/>
+		<nd ref="1712852974"/>
+		<nd ref="1712852934"/>
+		<nd ref="1712852910"/>
+		<nd ref="1712852853"/>
+		<nd ref="1712852893"/>
+		<nd ref="1712852898"/>
+		<nd ref="1712852854"/>
+		<nd ref="1712852916"/>
+		<nd ref="1712852905"/>
+		<nd ref="1712852858"/>
+		<nd ref="1712852846"/>
+		<nd ref="1712852841"/>
+		<nd ref="1712852836"/>
+		<nd ref="1712852831"/>
+		<nd ref="1712852827"/>
+		<nd ref="1712852799"/>
+		<nd ref="1712852795"/>
+		<nd ref="1712852787"/>
+		<nd ref="1712852771"/>
+		<nd ref="1712852757"/>
+		<nd ref="1712852745"/>
+		<nd ref="1712852690"/>
+		<nd ref="1712852686"/>
+		<nd ref="1712852672"/>
+		<nd ref="1712852656"/>
+		<nd ref="1712852648"/>
+		<nd ref="1712852663"/>
+		<nd ref="1712852679"/>
+		<nd ref="1712852638"/>
+		<nd ref="1712852581"/>
+		<nd ref="1712852570"/>
+		<nd ref="1712852438"/>
+		<nd ref="1712852421"/>
+		<nd ref="1712852400"/>
+		<nd ref="1712852376"/>
+		<nd ref="2380101521"/>
+		<nd ref="1712852385"/>
+		<nd ref="1712852561"/>
+		<nd ref="1712852546"/>
+		<nd ref="1712852528"/>
+		<nd ref="1712852459"/>
+		<nd ref="1712852413"/>
+		<nd ref="1712852326"/>
+		<nd ref="1712852292"/>
+		<nd ref="1712852283"/>
+		<nd ref="1712852215"/>
+		<nd ref="1712852192"/>
+		<nd ref="1712852167"/>
+		<nd ref="1712852177"/>
+		<nd ref="1712852183"/>
+		<nd ref="1712852227"/>
+		<nd ref="1712852289"/>
+		<nd ref="1712852300"/>
+		<nd ref="1712852319"/>
+		<nd ref="2380101523"/>
+		<nd ref="1712852306"/>
+		<nd ref="1712852314"/>
+		<nd ref="1712852311"/>
+		<nd ref="1712852268"/>
+		<nd ref="1712852210"/>
+		<nd ref="1712852199"/>
+		<nd ref="1712852174"/>
+		<nd ref="1712852123"/>
+		<nd ref="1712852108"/>
+		<nd ref="1712852099"/>
+		<nd ref="1712852072"/>
+		<nd ref="1712852037"/>
+		<nd ref="1712852034"/>
+		<nd ref="1712852027"/>
+		<nd ref="1712852023"/>
+		<nd ref="1712852014"/>
+		<nd ref="1712852012"/>
+		<nd ref="1712852003"/>
+		<nd ref="1712851954"/>
+		<nd ref="1712851950"/>
+		<nd ref="1712851931"/>
+		<nd ref="1712851941"/>
+		<nd ref="1712851920"/>
+		<nd ref="1712851914"/>
+		<nd ref="1712851905"/>
+		<nd ref="1712851901"/>
+		<nd ref="1712851892"/>
+		<nd ref="1712851910"/>
+		<nd ref="1712851924"/>
+		<nd ref="1712851995"/>
+		<nd ref="1712852007"/>
+		<nd ref="1712852017"/>
+		<nd ref="1712852043"/>
+		<nd ref="1712852075"/>
+		<nd ref="1712852080"/>
+		<nd ref="1712852095"/>
+		<nd ref="1712852087"/>
+		<nd ref="1712852092"/>
+		<nd ref="1712852103"/>
+		<nd ref="1712852127"/>
+		<nd ref="1712852221"/>
+		<nd ref="1712852276"/>
+		<nd ref="1712852410"/>
+		<nd ref="1712852445"/>
+		<nd ref="1712852533"/>
+		<nd ref="331229942"/>
+		<nd ref="331229936"/>
+		<nd ref="26199708"/>
+		<nd ref="26199707"/>
+		<nd ref="26199706"/>
+		<nd ref="331229930"/>
+		<nd ref="331229929"/>
+		<nd ref="26199705"/>
+		<nd ref="331229916"/>
+		<nd ref="331229917"/>
+		<nd ref="331229918"/>
+		<nd ref="331229925"/>
+		<nd ref="331229926"/>
+		<nd ref="26199704"/>
+		<nd ref="331229915"/>
+		<nd ref="331229913"/>
+		<nd ref="331229914"/>
+		<nd ref="26199703"/>
+		<nd ref="331229912"/>
+		<nd ref="331229883"/>
+		<nd ref="331229908"/>
+		<nd ref="331229889"/>
+		<nd ref="26199702"/>
+		<nd ref="26199701"/>
+		<nd ref="331229880"/>
+		<nd ref="26199700"/>
+		<nd ref="26199699"/>
+		<nd ref="331229864"/>
+		<nd ref="331229854"/>
+		<nd ref="331229852"/>
+		<nd ref="331229851"/>
+		<nd ref="331229850"/>
+		<nd ref="331229846"/>
+		<nd ref="331229840"/>
+		<nd ref="331273820"/>
+		<nd ref="331229836"/>
+		<nd ref="331229834"/>
+		<nd ref="331229833"/>
+		<nd ref="331229832"/>
+		<nd ref="331229831"/>
+		<nd ref="331229824"/>
+		<nd ref="331229870"/>
+		<nd ref="331229823"/>
+		<nd ref="331229822"/>
+		<nd ref="331229821"/>
+		<nd ref="331229820"/>
+		<nd ref="331229819"/>
+		<nd ref="331229818"/>
+		<nd ref="26199698"/>
+		<nd ref="26199697"/>
+		<nd ref="26199696"/>
+		<nd ref="331229816"/>
+		<nd ref="1734180582"/>
+		<nd ref="331229815"/>
+		<nd ref="331229814"/>
+		<nd ref="331229813"/>
+		<nd ref="331229811"/>
+		<nd ref="331229810"/>
+		<nd ref="331229809"/>
+		<nd ref="331229806"/>
+		<nd ref="331229800"/>
+		<nd ref="331229799"/>
+		<nd ref="331229785"/>
+		<nd ref="331229788"/>
+		<nd ref="331229797"/>
+		<nd ref="331229791"/>
+		<nd ref="331229793"/>
+		<nd ref="331229795"/>
+		<nd ref="26199695"/>
+		<nd ref="331229762"/>
+		<nd ref="331229770"/>
+		<nd ref="331229778"/>
+		<nd ref="331229783"/>
+		<nd ref="331229780"/>
+		<nd ref="26199694"/>
+		<nd ref="331229529"/>
+		<nd ref="331229530"/>
+		<nd ref="331229528"/>
+		<nd ref="26199693"/>
+		<nd ref="331229527"/>
+		<nd ref="26199692"/>
+		<nd ref="331229519"/>
+		<nd ref="331229520"/>
+		<nd ref="331229522"/>
+		<nd ref="331229525"/>
+		<nd ref="331229526"/>
+		<nd ref="26199691"/>
+		<nd ref="770741688"/>
+		<nd ref="26199690"/>
+		<nd ref="331229682"/>
 	</way>
 	<relation id="7780403" version="1" timestamp="2017-12-04T04:51:48Z" changeset="54317578" uid="5888135" user="iberutan">
 		<member type="way" ref="544285356" role="outer"/>
