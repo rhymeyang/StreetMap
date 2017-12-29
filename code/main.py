@@ -115,7 +115,7 @@ if __name__ == '__main__':
     generalTools.remove_db_keys()
     # # generalTools.refresh_one_record('5a36ce47c836876becc897c5')
     
-    # pre_working()
+    pre_working()
     working()
     logger.info("after clean, node count: {}".format(mongoCollection.count({'type': 'node'})))
     logger.info("after clean, way count: {}".format(mongoCollection.count({'type': 'way'})))
@@ -131,24 +131,10 @@ if __name__ == '__main__':
     
     # grep 'k="aerodrome:type"'  '../../src/shanghai_china.osm' |cut -d'"' -f4|sort|uniq    
     for item in [              
-                # 'religion',
-                
+                # 'religion',                
                 # 'shop',
-                # 'tags.religion:zh',
-                # 'tags.aerodrome:type',
                 # 'tags.shop',
                 ]:
         
         check_database(item, True)
-    
-
-    
-    # nameClean.test_clean_name_set({"People's Square (Wusheng Road)", '人民广场 (武胜路)'})
-   
-
-    # doc = mongoCollection.find_one({'id': '2355589751'})
-    # pprint.pprint(doc)
-    # generalTools.print_record_by_object_id('5a36ce47c836876becc897c5')
-    # addressClean.print_all_address_number(logger)
-
   
