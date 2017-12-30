@@ -11907,9 +11907,40 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <ol>
-<li>在数据数据阶段加入验证，比如邮编，如果不是6位，不可以保存</li>
-<li>不同语言对应到确定的key下面, 如name:UN:en，统一为 name:en</li>
-<li>数据集中空数据太多，数据记录工具的显著位置，添加对空数据的说明，提示避免输入空数据。</li>
+<li>在数据保存阶段加入验证<ul>
+<li>好处<ul>
+<li>可以避免一些简单的错误</li>
+</ul>
+</li>
+<li>预期问题<ul>
+<li>对邮编、电话号码等容易制定验证规则</li>
+<li>对于城市，街道名称难以制定验证规则，可以考虑仅验证语言合规</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>制定OSM key列表，录取新数据，key使用下拉列表，避免非法tag key<ul>
+<li>好处<ul>
+<li>可以避免使用不合法的tag key</li>
+</ul>
+</li>
+<li>预期问题<ul>
+<li>列表更新不及时</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>可以不允许空数据保存<ul>
+<li>好处<ul>
+<li>避免当前数据集中node 只有坐标和创建人的信息，而没有实际坐标点信息</li>
+</ul>
+</li>
+<li>预期问题<ul>
+<li>需要研究每一类节点的基本信息。比如node至少包含一个tag，way至少包含两个ref</li>
+</ul>
+</li>
+</ul>
+</li>
 </ol>
 
 </div>
